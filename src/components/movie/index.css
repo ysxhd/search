@@ -16,6 +16,42 @@
 }
 
 
+li {
+  flex: 0 0 130px;
+  padding-bottom: 5px;
+  margin-right: 20px;
+  position: relative;
+}
+
+
+li:hover:after {
+  opacity: 1;
+}
+
+
+li:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 180px;
+  content: '\f144';
+  background: rgba(0,0,0,0.3);
+  border-radius: 5px;
+  opacity: 0;
+  color: #FFF;
+  font-size: 40px;
+  display: block;
+  cursor: pointer;
+  line-height: 195px;
+  text-align: center;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+
 
 
 .movie__vote {
