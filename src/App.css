@@ -1,0 +1,315 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,300,100|Open+Sans+Condensed:300);
+ @import url(https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+ @import "~antd/dist/antd.css";
+ 
+
+ 
+ body {
+	 background: #FFF linear-gradient(to bottom,#3F567C,#B5CCC6);
+	 background-repeat:  no-repeat;
+	 background-attachment: fixed;
+	 background-size:  cover;
+	 font-family: Open Sans, sans-serif;
+}
+ a {
+	 text-decoration: none;
+	 transition-duration: .3s;
+}
+ a:hover {
+	 transition-duration: .05s;
+}
+ .window-margin {
+	 max-width: 1200px;
+	 padding: 60px;
+	 margin: auto;
+}
+ .window {
+	 margin: auto;
+	 border-radius: 5px;
+	 background: #FFF;
+	 overflow: hidden;
+	 position: relative;
+	 box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+ .window .sidebar .top-bar, .window .main .top-bar {
+	 height: 65px;
+	 color: #FFF;
+}
+ .window .sidebar {
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 bottom: 0;
+	 width: 250px;
+	 background: #24282C;
+	 transition-duration: .3s;
+	 color: #DDD;
+}
+ .window .sidebar .top-bar {
+	 background: #3AB0FF;
+	 overflow: hidden;
+}
+ .window .sidebar .top-bar .logo {
+	 float: left;
+	 font-family: Open Sans Condensed, sans-serif;
+	 font-size: 40px;
+	 line-height: 65px;
+	 margin-left: 20px;
+}
+
+
+
+
+ .window .sidebar .search-box {
+	 background: #373D41;
+	 padding: 20px;
+	 position: relative;
+}
+ .window .sidebar .search-box input {
+	 width: 170px;
+	 border: 0;
+	 padding: 10px 20px;
+	 border-radius: 50px;
+	 outline: none;
+	 color: #999;
+	 transition-duration: .3s;
+}
+ .window .sidebar .search-box input:focus {
+	 color: #333;
+}
+ .window .sidebar .search-box input:focus ~ .fa {
+	 color: #999;
+}
+ .window .sidebar .search-box .fa {
+	 position: absolute;
+	 top: 31px;
+	 right: 35px;
+	 color: #CCC;
+	 transition-duration: .3s;
+	 cursor: pointer;
+}
+ .window .sidebar .menu {
+	 padding-top: 20px;
+}
+ .window .sidebar .menu .separator {
+	 border-top: 1px solid #111111;
+	 border-bottom: 1px solid #353535;
+	 margin: 20px;
+}
+ .window .sidebar .menu a {
+	 color: #DDD;
+	 text-decoration: none;
+}
+ .window .sidebar .menu a:hover {
+	 color: #FFF;
+}
+ .window .sidebar .menu .menu-name {
+	 text-transform: uppercase;
+	 padding: 0 5px;
+	 font-size: 14px;
+	 margin-bottom: 10px;
+}
+ .window .sidebar .menu > ul.no-bullets > li a:before {
+	 content: none !important;
+}
+ .window .sidebar .menu > ul > li {
+	 list-style: none;
+}
+ .window .sidebar .menu > ul > li > a {
+	 position: relative;
+	 top: -3px;
+	 font-size: 14px;
+	 padding: 8px 25px;
+	 display: block;
+	 font-weight: bold;
+}
+ .window .sidebar .menu > ul > li > a:before {
+	 content: '';
+	 height: 9px;
+	 width: 9px;
+	 border-radius: 50px;
+	 display: inline-block;
+	 margin-right: 10px;
+	 box-shadow: inset 0 0 0 1px #EEE;
+}
+ .window .sidebar .menu > ul > li.active {
+	 list-style-type: disc;
+	 color: #FF3A3A;
+	 padding-bottom: 10px;
+}
+ .window .sidebar .menu > ul > li.active > a {
+	 padding-bottom: 0;
+}
+ .window .sidebar .menu > ul > li.active > a:before {
+	 background: #FF3A3A;
+	 box-shadow: none;
+}
+ .window .sidebar .menu > ul > li.active ul {
+	 display: block;
+	 margin-left: 50px;
+	 margin-top: 5px;
+}
+ .window .sidebar .menu > ul > li.active ul li.active a {
+	 color: #FFF;
+	 font-weight: bold;
+}
+ .window .sidebar .menu > ul > li.active ul li a {
+	 padding: 5px;
+	 display: block;
+	 font-size: 13px;
+	 color: #888;
+}
+ .window .sidebar .menu > ul > li.active ul li a:hover {
+	 color: #FFF;
+}
+ .window .sidebar .menu > ul > li ul {
+	 display: none;
+}
+ .window .main {
+	 margin-left: 250px;
+	 transition-duration: .3s;
+	 position: relative;
+}
+ .window .main .top-bar {
+	 background: #279CEB;
+}
+ .window .main .top-bar .top-menu {
+	 height: 65px;
+	 overflow: hidden;
+}
+ .window .main .top-bar .top-menu .menu-icon {
+	 padding: 27px 20px 20px 18px;
+	 display: none;
+	 cursor: pointer;
+	 transition-duration: .3s;
+}
+ .window .main .top-bar .top-menu .menu-icon:hover {
+	 background: #54baff;
+	 transition-duration: .05s;
+}
+ .window .main .top-bar .top-menu .menu-icon .line {
+	 height: 2px;
+	 width: 20px;
+	 background: #FFF;
+	 margin-bottom: 4px;
+}
+ .window .main .top-bar .top-menu li {
+	 float: left;
+	 font-size: 14px;
+}
+ .window .main .top-bar .top-menu li.active a, .window .main .top-bar .top-menu li.active a:hover {
+	 background: #3AB0FF;
+	 color: #FFF;
+	 font-weight: bold;
+}
+ .window .main .top-bar .top-menu a {
+	 padding: 0 25px;
+	 color: #EEE;
+	 line-height: 65px;
+	 display: block;
+}
+ .window .main .top-bar .top-menu a:hover {
+	 color: #FFF;
+	 background: rgba(58,176,255,0.35);
+}
+ .window .main .top-bar .profile-box {
+	 float: right;
+	 background: #3AB0FF;
+	 height: 65px;
+	 line-height: 65px;
+	 padding: 0 20px;
+	 cursor: pointer;
+}
+ .window .main .top-bar .profile-box .circle {
+	 background: #FFF;
+	 height: 30px;
+	 width: 30px;
+	 border-radius: 50px;
+	 display: block;
+	 float: left;
+	 margin-top: 15px;
+}
+ .window .main .top-bar .profile-box .arrow {
+	 float: left;
+	 margin-left: 10px;
+	 line-height: 65px;
+}
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.pagination-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+
+.content {
+  padding-top: 30px;
+}
+
+
+
+@media only screen and (max-width: 1220px) {
+	.window > .sidebar {
+		transform: translateX(-250px);
+   }
+	.window > .main {
+		margin-left: 0;
+   }
+	.window > .main .top-bar .top-menu .menu-icon {
+		display: block;
+   }
+	.sidebar-is-open .window > .sidebar {
+		transform: translateX(0);
+   }
+	.sidebar-is-open .window > .main {
+		transform: translateX(250px);
+   }
+}
+@media only screen and (max-width: 960px) {
+	.window .main .featured-movie .bottom-bar {
+		position: static;
+   }
+	.window .main .featured-movie .bottom-bar .title-container {
+		font-size: 25px;
+   }
+}

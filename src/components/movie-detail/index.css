@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,300,100|Open+Sans+Condensed:300);
+
+
+body {
+  font-family: Open Sans, sans-serif;
+  font-size: 1 rem;
+  font-weight: 800;
+}
+
+
+.container {
+  max-width: 1000px;
+  margin: 10px auto;
+  background-color: rgba(0, 0, 0, 0.8);
+  /* background-color: white; */
+  padding: 50px 50px 50px 50px;
+  position: relative;
+  color: #ffffff;
+  margin:10px;
+}
+
+.container .icon-back {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.container .icon-back:hover {
+  cursor: pointer;
+}
+
+.container .content-wrap {
+  display: flex;
+  margin-top: 30px;
+}
+
+.content-wrap .poster img {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  max-width: 300px;
+}
+
+.details {
+  padding-left: 50px;
+}
+
+.details .director-wrap {
+  margin-top: 20px;
+}
+
+.director-wrap .director-item {
+  margin-left: 10px;
+  border-bottom: 1px solid #ffffff;
+  color: #ffffff;
+}
+
+.director-wrap .director-item:hover {
+  cursor: pointer;
+  color: #00bfff;
+  border-color: #00bfff;
+
+}
+
+.details .writer-wrap {
+  margin-top: 20px;
+}
+
+.writer-wrap .writer-item {
+  margin-left: 10px;
+  border-bottom: 1px solid #ffffff;
+  color: #ffffff;
+  
+}
+
+.writer-wrap .writer-item:hover {
+  cursor: pointer;
+  color: #00bfff;
+  border-color: #00bfff;
+
+}
+
+.details .year-wrap {
+  margin-top: 20px;
+}
+
+.year-wrap .year {
+  margin-left: 10px;
+  color: #ffffff;
+}
+
+

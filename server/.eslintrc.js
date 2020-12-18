@@ -1,0 +1,40 @@
+module.exports = {
+  env: {
+    browser: true,
+    'jest/globals': true,
+    node: true,
+    es6: true,
+  },
+  extends: [
+    'plugin:@typescript-eslint/recommended',
+    'plugin:import/errors',
+    'plugin:import/warnings',
+    'plugin:import/typescript',
+    'prettier/@typescript-eslint',
+    'plugin:prettier/recommended',
+  ],
+  globals: {
+    Atomics: 'readonly',
+    SharedArrayBuffer: 'readonly',
+  },
+  parser: '@typescript-eslint/parser',
+  parserOptions: {
+    ecmaVersion: 2018,
+    sourceType: 'module',
+  },
+  plugins: ['@typescript-eslint', 'prettier', 'import', 'jest'],
+  rules: {
+    '@typescript-eslint/indent': [2, 2],
+    '@typescript-eslint/no-explicit-any': 0,
+    'import/named': 1,
+    'import/namespace': 2,
+    'import/default': 2,
+    'import/export': 2,
+    'import/order': 1,
+    'jest/no-disabled-tests': 'warn',
+    'jest/no-focused-tests': 'error',
+    'jest/no-identical-title': 'error',
+    'jest/prefer-to-have-length': 'warn',
+    'jest/valid-expect': 'error',
+  },
+};

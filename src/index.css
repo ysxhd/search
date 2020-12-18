@@ -1,0 +1,38 @@
+@use postcss-cssnext;
+
+* {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+body {
+  background-color: #3a4f5b;
+  color: #fff;
+  font-family: sans-serif;
+  font-style: 1rem;
+  line-height: 1.5;
+  margin: 0 auto;
+  min-height: 100vh;
+  width: 90%;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+input {
+  border: 0;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+}

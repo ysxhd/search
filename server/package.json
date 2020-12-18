@@ -1,0 +1,48 @@
+{
+  "name": "movies-backend-server",
+  "version": "0.0.1",
+  "description": "Movies Backend Server",
+  "dependencies": {
+    "body-parser": "^1.19.x",
+    "cors": "^2.8.5",
+    "csv": "^5.3.1",
+    "express": "^4.17.x",
+    "moment": "^2.24.x",
+    "typescript": "^3.6.x"
+  },
+  "devDependencies": {
+    "@types/bluebird": "*",
+    "@types/cors": "*",
+    "@types/express": "*",
+    "@types/jest": "*",
+    "@types/node": "*",
+    "@types/supertest": "*",
+    "@types/validator": "*",
+    "@typescript-eslint/eslint-plugin": "^2.3.x",
+    "@typescript-eslint/parser": "^2.3.x",
+    "eslint": "^6.4.x",
+    "eslint-config-prettier": "^6.3.x",
+    "eslint-config-standard": "^14.1.x",
+    "eslint-import-resolver-typescript": "^1.1.x",
+    "eslint-plugin-import": "^2.18.x",
+    "eslint-plugin-jest": "^22.17.x",
+    "eslint-plugin-json": "^1.4.x",
+    "eslint-plugin-jsx-a11y": "^6.2.x",
+    "eslint-plugin-node": "^10.0.x",
+    "eslint-plugin-prettier": "^3.1.x",
+    "eslint-plugin-promise": "^4.2.x",
+    "eslint-plugin-react": "^7.14.x",
+    "eslint-plugin-standard": "^4.0.x",
+    "jest": "^24.9.x",
+    "prettier-eslint": "^9.0.x",
+    "supertest": "^4.0.x",
+    "ts-jest": "^24.1.x",
+    "ts-node-dev": "^1.0.0-pre.43"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node-dev --respawn --transpileOnly ./src/index.ts",
+    "lint": "npx eslint src --ext .js,.ts",
+    "test": "npx jest --run-in-band --coverage --force-exit"
+  }
+}

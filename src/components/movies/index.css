@@ -1,0 +1,10 @@
+.movies {
+  display: grid;
+  grid-gap: 3em 2em;
+  grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
+  list-style: none;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0 50px;
+}
+

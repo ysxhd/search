@@ -1,0 +1,1001 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0111161	movie	The Shawshank Redemption	The Shawshank Redemption	0	1994	\N	142	Drama
+tt0468569	movie	The Dark Knight	The Dark Knight	0	2008	\N	152	Action,Crime,Drama
+tt1375666	movie	Inception	Inception	0	2010	\N	148	Action,Adventure,Sci-Fi
+tt0137523	movie	Fight Club	Fight Club	0	1999	\N	139	Drama
+tt0110912	movie	Pulp Fiction	Pulp Fiction	0	1994	\N	154	Crime,Drama
+tt0109830	movie	Forrest Gump	Forrest Gump	0	1994	\N	142	Drama,Romance
+tt0133093	movie	The Matrix	The Matrix	0	1999	\N	136	Action,Sci-Fi
+tt0120737	movie	The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring	0	2001	\N	178	Adventure,Drama,Fantasy
+tt0167260	movie	The Lord of the Rings: The Return of the King	The Lord of the Rings: The Return of the King	0	2003	\N	201	Adventure,Drama,Fantasy
+tt0068646	movie	The Godfather	The Godfather	0	1972	\N	175	Crime,Drama
+tt1345836	movie	The Dark Knight Rises	The Dark Knight Rises	0	2012	\N	164	Action,Thriller
+tt0167261	movie	The Lord of the Rings: The Two Towers	The Lord of the Rings: The Two Towers	0	2002	\N	179	Adventure,Drama,Fantasy
+tt0816692	movie	Interstellar	Interstellar	0	2014	\N	169	Adventure,Drama,Sci-Fi
+tt0114369	movie	Se7en	Se7en	0	1995	\N	127	Crime,Drama,Mystery
+tt1853728	movie	Django Unchained	Django Unchained	0	2012	\N	165	Drama,Western
+tt0172495	movie	Gladiator	Gladiator	0	2000	\N	155	Action,Adventure,Drama
+tt0372784	movie	Batman Begins	Batman Begins	0	2005	\N	140	Action,Adventure
+tt0848228	movie	The Avengers	The Avengers	0	2012	\N	143	Action,Adventure,Sci-Fi
+tt0102926	movie	The Silence of the Lambs	The Silence of the Lambs	0	1991	\N	118	Crime,Drama,Thriller
+tt0361748	movie	Inglourious Basterds	Inglourious Basterds	0	2009	\N	153	Adventure,Drama,War
+tt0076759	movie	Star Wars: Episode IV - A New Hope	Star Wars	0	1977	\N	121	Action,Adventure,Fantasy
+tt0120815	movie	Saving Private Ryan	Saving Private Ryan	0	1998	\N	169	Drama,War
+tt0108052	movie	Schindler's List	Schindler's List	0	1993	\N	195	Biography,Drama,History
+tt0407887	movie	The Departed	The Departed	0	2006	\N	151	Crime,Drama,Thriller
+tt0482571	movie	The Prestige	The Prestige	0	2006	\N	130	Drama,Mystery,Sci-Fi
+tt0080684	movie	Star Wars: Episode V - The Empire Strikes Back	Star Wars: Episode V - The Empire Strikes Back	0	1980	\N	124	Action,Adventure,Fantasy
+tt0993846	movie	The Wolf of Wall Street	The Wolf of Wall Street	0	2013	\N	180	Biography,Crime,Drama
+tt0499549	movie	Avatar	Avatar	0	2009	\N	162	Action,Adventure,Fantasy
+tt0120689	movie	The Green Mile	The Green Mile	0	1999	\N	189	Crime,Drama,Fantasy
+tt0209144	movie	Memento	Memento	0	2000	\N	113	Mystery,Thriller
+tt0071562	movie	The Godfather: Part II	The Godfather: Part II	0	1974	\N	202	Crime,Drama
+tt1130884	movie	Shutter Island	Shutter Island	0	2010	\N	138	Mystery,Thriller
+tt0169547	movie	American Beauty	American Beauty	0	1999	\N	122	Drama
+tt2015381	movie	Guardians of the Galaxy	Guardians of the Galaxy	0	2014	\N	121	Action,Adventure,Comedy
+tt0120338	movie	Titanic	Titanic	0	1997	\N	194	Drama,Romance
+tt0120586	movie	American History X	American History X	0	1998	\N	119	Drama
+tt0325980	movie	Pirates of the Caribbean: The Curse of the Black Pearl	Pirates of the Caribbean: The Curse of the Black Pearl	0	2003	\N	143	Action,Adventure,Fantasy
+tt0434409	movie	V for Vendetta	V for Vendetta	0	2005	\N	132	Action,Drama,Sci-Fi
+tt0088763	movie	Back to the Future	Back to the Future	0	1985	\N	116	Adventure,Comedy,Sci-Fi
+tt0110413	movie	Léon: The Professional	Léon	0	1994	\N	110	Action,Crime,Drama
+tt0099685	movie	Goodfellas	Goodfellas	0	1990	\N	146	Biography,Crime,Drama
+tt0103064	movie	Terminator 2: Judgment Day	Terminator 2: Judgment Day	0	1991	\N	137	Action,Sci-Fi
+tt0266697	movie	Kill Bill: Vol. 1	Kill Bill: Vol. 1	0	2003	\N	111	Action,Crime,Thriller
+tt0910970	movie	WALL·E	WALL·E	0	2008	\N	98	Adventure,Animation,Family
+tt0114814	movie	The Usual Suspects	The Usual Suspects	0	1995	\N	106	Crime,Mystery,Thriller
+tt0112573	movie	Braveheart	Braveheart	0	1995	\N	178	Biography,Drama,History
+tt0086190	movie	Star Wars: Episode VI - Return of the Jedi	Star Wars: Episode VI - Return of the Jedi	0	1983	\N	131	Action,Adventure,Fantasy
+tt0266543	movie	Finding Nemo	Finding Nemo	0	2003	\N	100	Adventure,Animation,Comedy
+tt0371746	movie	Iron Man	Iron Man	0	2008	\N	126	Action,Adventure,Sci-Fi
+tt0110357	movie	The Lion King	The Lion King	0	1994	\N	88	Adventure,Animation,Drama
+tt1049413	movie	Up	Up	0	2009	\N	96	Adventure,Animation,Comedy
+tt0120382	movie	The Truman Show	The Truman Show	0	1998	\N	103	Comedy,Drama,Sci-Fi
+tt0167404	movie	The Sixth Sense	The Sixth Sense	0	1999	\N	107	Drama,Mystery,Thriller
+tt0105236	movie	Reservoir Dogs	Reservoir Dogs	0	1992	\N	99	Crime,Drama,Thriller
+tt0073486	movie	One Flew Over the Cuckoo's Nest	One Flew Over the Cuckoo's Nest	0	1975	\N	133	Drama
+tt1431045	movie	Deadpool	Deadpool	0	2016	\N	108	Action,Adventure,Comedy
+tt0338013	movie	Eternal Sunshine of the Spotless Mind	Eternal Sunshine of the Spotless Mind	0	2004	\N	108	Drama,Romance,Sci-Fi
+tt0082971	movie	Raiders of the Lost Ark	Raiders of the Lost Ark	0	1981	\N	115	Action,Adventure
+tt0114709	movie	Toy Story	Toy Story	0	1995	\N	81	Adventure,Animation,Comedy
+tt0081505	movie	The Shining	The Shining	0	1980	\N	146	Drama,Horror
+tt2488496	movie	Star Wars: Episode VII - The Force Awakens	Star Wars: Episode VII - The Force Awakens	0	2015	\N	138	Action,Adventure,Sci-Fi
+tt1392190	movie	Mad Max: Fury Road	Mad Max: Fury Road	0	2015	\N	120	Action,Adventure,Sci-Fi
+tt0107290	movie	Jurassic Park	Jurassic Park	0	1993	\N	127	Action,Adventure,Sci-Fi
+tt1392170	movie	The Hunger Games	The Hunger Games	0	2012	\N	142	Action,Adventure,Sci-Fi
+tt0119217	movie	Good Will Hunting	Good Will Hunting	0	1997	\N	126	Drama,Romance
+tt0268978	movie	A Beautiful Mind	A Beautiful Mind	0	2001	\N	135	Biography,Drama
+tt0477348	movie	No Country for Old Men	No Country for Old Men	0	2007	\N	122	Crime,Drama,Thriller
+tt2267998	movie	Gone Girl	Gone Girl	0	2014	\N	149	Drama,Mystery,Thriller
+tt0198781	movie	Monsters, Inc.	Monsters, Inc.	0	2001	\N	92	Adventure,Animation,Comedy
+tt1010048	movie	Slumdog Millionaire	Slumdog Millionaire	0	2008	\N	120	Drama,Romance
+tt0088247	movie	The Terminator	The Terminator	0	1984	\N	107	Action,Sci-Fi
+tt0264464	movie	Catch Me If You Can	Catch Me If You Can	0	2002	\N	141	Biography,Crime,Drama
+tt0095016	movie	Die Hard	Die Hard	0	1988	\N	132	Action,Thriller
+tt4154756	movie	Avengers: Infinity War	Avengers: Infinity War	0	2018	\N	149	Action,Adventure,Sci-Fi
+tt0208092	movie	Snatch	Snatch	0	2000	\N	104	Comedy,Crime
+tt0078748	movie	Alien	Alien	0	1979	\N	117	Horror,Sci-Fi
+tt1454468	movie	Gravity	Gravity	0	2013	\N	91	Drama,Sci-Fi,Thriller
+tt0903624	movie	The Hobbit: An Unexpected Journey	The Hobbit: An Unexpected Journey	0	2012	\N	169	Adventure,Family,Fantasy
+tt0401792	movie	Sin City	Sin City	0	2005	\N	124	Crime,Thriller
+tt0180093	movie	Requiem for a Dream	Requiem for a Dream	0	2000	\N	102	Drama
+tt1300854	movie	Iron Man 3	Iron Man Three	0	2013	\N	130	Action,Adventure,Sci-Fi
+tt1201607	movie	Harry Potter and the Deathly Hallows: Part 2	Harry Potter and the Deathly Hallows: Part 2	0	2011	\N	130	Adventure,Drama,Fantasy
+tt0435761	movie	Toy Story 3	Toy Story 3	0	2010	\N	103	Adventure,Animation,Comedy
+tt0066921	movie	A Clockwork Orange	A Clockwork Orange	0	1971	\N	136	Crime,Drama,Sci-Fi
+tt0246578	movie	Donnie Darko	Donnie Darko	0	2001	\N	113	Drama,Sci-Fi,Thriller
+tt3659388	movie	The Martian	The Martian	0	2015	\N	144	Adventure,Drama,Sci-Fi
+tt0800369	movie	Thor	Thor	0	2011	\N	115	Action,Adventure,Fantasy
+tt0416449	movie	300	300	0	2006	\N	117	Action,Drama
+tt1675434	movie	The Intouchables	Intouchables	0	2011	\N	112	Biography,Comedy,Drama
+tt0458339	movie	Captain America: The First Avenger	Captain America: The First Avenger	0	2011	\N	124	Action,Adventure,Sci-Fi
+tt2395427	movie	Avengers: Age of Ultron	Avengers: Age of Ultron	0	2015	\N	141	Action,Adventure,Sci-Fi
+tt1843866	movie	Captain America: The Winter Soldier	Captain America: The Winter Soldier	0	2014	\N	136	Action,Adventure,Sci-Fi
+tt0086250	movie	Scarface	Scarface	0	1983	\N	170	Crime,Drama
+tt0120915	movie	Star Wars: Episode I - The Phantom Menace	Star Wars: Episode I - The Phantom Menace	0	1999	\N	136	Action,Adventure,Fantasy
+tt1205489	movie	Gran Torino	Gran Torino	0	2008	\N	116	Drama
+tt1119646	movie	The Hangover	The Hangover	0	2009	\N	100	Comedy
+tt0118715	movie	The Big Lebowski	The Big Lebowski	0	1998	\N	117	Comedy,Crime,Sport
+tt1228705	movie	Iron Man 2	Iron Man 2	0	2010	\N	124	Action,Adventure,Sci-Fi
+tt0253474	movie	The Pianist	The Pianist	0	2002	\N	150	Biography,Drama,Music
+tt0121766	movie	Star Wars: Episode III - Revenge of the Sith	Star Wars: Episode III - Revenge of the Sith	0	2005	\N	140	Action,Adventure,Fantasy
+tt0075314	movie	Taxi Driver	Taxi Driver	0	1976	\N	114	Crime,Drama
+tt0211915	movie	Amélie	Le fabuleux destin d'Amélie Poulain	0	2001	\N	122	Comedy,Romance
+tt0947798	movie	Black Swan	Black Swan	0	2010	\N	108	Drama,Thriller
+tt0317248	movie	City of God	Cidade de Deus	0	2002	\N	130	Crime,Drama
+tt0770828	movie	Man of Steel	Man of Steel	0	2013	\N	143	Action,Adventure,Sci-Fi
+tt2278388	movie	The Grand Budapest Hotel	The Grand Budapest Hotel	0	2014	\N	99	Adventure,Comedy,Crime
+tt0145487	movie	Spider-Man	Spider-Man	0	2002	\N	121	Action,Adventure,Sci-Fi
+tt0097576	movie	Indiana Jones and the Last Crusade	Indiana Jones and the Last Crusade	0	1989	\N	127	Action,Adventure
+tt1663202	movie	The Revenant	The Revenant	0	2015	\N	156	Action,Adventure,Biography
+tt2582802	movie	Whiplash	Whiplash	0	2014	\N	106	Drama,Music
+tt0083658	movie	Blade Runner	Blade Runner	0	1982	\N	117	Action,Sci-Fi,Thriller
+tt0480249	movie	I Am Legend	I Am Legend	0	2007	\N	101	Adventure,Drama,Sci-Fi
+tt4154796	movie	Avengers: Endgame	Avengers: Endgame	0	2019	\N	181	Action,Adventure,Drama
+tt0060196	movie	The Good, the Bad and the Ugly	Il buono, il brutto, il cattivo	0	1966	\N	161	Western
+tt0378194	movie	Kill Bill: Vol. 2	Kill Bill: Vol. 2	0	2004	\N	137	Action,Crime,Thriller
+tt2084970	movie	The Imitation Game	The Imitation Game	0	2014	\N	114	Biography,Drama,Thriller
+tt1877832	movie	X-Men: Days of Future Past	X-Men: Days of Future Past	0	2014	\N	132	Action,Adventure,Sci-Fi
+tt0050083	movie	12 Angry Men	12 Angry Men	0	1957	\N	96	Drama
+tt1045658	movie	Silver Linings Playbook	Silver Linings Playbook	0	2012	\N	122	Comedy,Drama,Romance
+tt0093058	movie	Full Metal Jacket	Full Metal Jacket	0	1987	\N	116	Drama,War
+tt0892769	movie	How to Train Your Dragon	How to Train Your Dragon	0	2010	\N	98	Action,Adventure,Animation
+tt0383574	movie	Pirates of the Caribbean: Dead Man's Chest	Pirates of the Caribbean: Dead Man's Chest	0	2006	\N	151	Action,Adventure,Fantasy
+tt1270798	movie	X-Men: First Class	X: First Class	0	2011	\N	131	Action,Adventure,Sci-Fi
+tt0317705	movie	The Incredibles	The Incredibles	0	2004	\N	115	Action,Adventure,Animation
+tt7286456	movie	Joker	Joker	0	2019	\N	122	Crime,Drama,Thriller
+tt0090605	movie	Aliens	Aliens	0	1986	\N	137	Action,Adventure,Sci-Fi
+tt3498820	movie	Captain America: Civil War	Captain America: Civil War	0	2016	\N	147	Action,Adventure,Sci-Fi
+tt1136608	movie	District 9	District 9	0	2009	\N	112	Action,Sci-Fi,Thriller
+tt1504320	movie	The King's Speech	The King's Speech	0	2010	\N	118	Biography,Drama,History
+tt0117951	movie	Trainspotting	Trainspotting	0	1996	\N	93	Drama
+tt1074638	movie	Skyfall	Skyfall	0	2012	\N	143	Action,Adventure,Thriller
+tt0121765	movie	Star Wars: Episode II - Attack of the Clones	Star Wars: Episode II - Attack of the Clones	0	2002	\N	142	Action,Adventure,Fantasy
+tt0405159	movie	Million Dollar Baby	Million Dollar Baby	0	2004	\N	132	Drama,Sport
+tt0382932	movie	Ratatouille	Ratatouille	0	2007	\N	111	Adventure,Animation,Comedy
+tt2024544	movie	12 Years a Slave	12 Years a Slave	0	2013	\N	134	Biography,Drama,History
+tt3315342	movie	Logan	Logan	0	2017	\N	137	Action,Drama,Sci-Fi
+tt2975590	movie	Batman v Superman: Dawn of Justice	Batman v Superman: Dawn of Justice	0	2016	\N	151	Action,Adventure,Sci-Fi
+tt0241527	movie	Harry Potter and the Sorcerer's Stone	Harry Potter and the Sorcerer's Stone	0	2001	\N	152	Adventure,Family,Fantasy
+tt0457430	movie	Pan's Labyrinth	El laberinto del fauno	0	2006	\N	118	Drama,Fantasy,War
+tt1951264	movie	The Hunger Games: Catching Fire	The Hunger Games: Catching Fire	0	2013	\N	146	Action,Adventure,Sci-Fi
+tt0440963	movie	The Bourne Ultimatum	The Bourne Ultimatum	0	2007	\N	115	Action,Mystery,Thriller
+tt1285016	movie	The Social Network	The Social Network	0	2010	\N	120	Biography,Drama
+tt0245429	movie	Spirited Away	Sen to Chihiro no kamikakushi	0	2001	\N	125	Adventure,Animation,Family
+tt0126029	movie	Shrek	Shrek	0	2001	\N	90	Adventure,Animation,Comedy
+tt0116282	movie	Fargo	Fargo	0	1996	\N	98	Crime,Drama,Thriller
+tt0418279	movie	Transformers	Transformers	0	2007	\N	144	Action,Adventure,Sci-Fi
+tt1170358	movie	The Hobbit: The Desolation of Smaug	The Hobbit: The Desolation of Smaug	0	2013	\N	161	Adventure,Fantasy
+tt0118799	movie	Life Is Beautiful	La vita è bella	0	1997	\N	116	Comedy,Drama,Romance
+tt0449088	movie	Pirates of the Caribbean: At World's End	Pirates of the Caribbean: At World's End	0	2007	\N	169	Action,Adventure,Fantasy
+tt0816711	movie	World War Z	World War Z	0	2013	\N	116	Action,Adventure,Horror
+tt0078788	movie	Apocalypse Now	Apocalypse Now	0	1979	\N	147	Drama,Mystery,War
+tt1670345	movie	Now You See Me	Now You See Me	0	2013	\N	115	Crime,Mystery,Thriller
+tt1631867	movie	Edge of Tomorrow	Edge of Tomorrow	0	2014	\N	113	Action,Sci-Fi
+tt0062622	movie	2001: A Space Odyssey	2001: A Space Odyssey	0	1968	\N	149	Adventure,Sci-Fi
+tt2096673	movie	Inside Out	Inside Out	0	2015	\N	95	Adventure,Animation,Comedy
+tt0796366	movie	Star Trek	Star Trek	0	2009	\N	127	Action,Adventure,Sci-Fi
+tt1981115	movie	Thor: The Dark World	Thor: The Dark World	0	2013	\N	112	Action,Adventure,Fantasy
+tt2802144	movie	Kingsman: The Secret Service	Kingsman: The Secret Service	0	2014	\N	129	Action,Adventure,Comedy
+tt0054215	movie	Psycho	Psycho	0	1960	\N	109	Horror,Mystery,Thriller
+tt1825683	movie	Black Panther	Black Panther	0	2018	\N	134	Action,Adventure,Sci-Fi
+tt0988045	movie	Sherlock Holmes	Sherlock Holmes	0	2009	\N	128	Action,Adventure,Crime
+tt1386697	movie	Suicide Squad	Suicide Squad	0	2016	\N	123	Action,Adventure,Fantasy
+tt0421715	movie	The Curious Case of Benjamin Button	The Curious Case of Benjamin Button	0	2008	\N	166	Drama,Fantasy,Romance
+tt0369610	movie	Jurassic World	Jurassic World	0	2015	\N	124	Action,Adventure,Sci-Fi
+tt0107048	movie	Groundhog Day	Groundhog Day	0	1993	\N	101	Comedy,Fantasy,Romance
+tt0381061	movie	Casino Royale	Casino Royale	0	2006	\N	144	Action,Adventure,Thriller
+tt0454876	movie	Life of Pi	Life of Pi	0	2012	\N	127	Adventure,Drama,Fantasy
+tt0114746	movie	Twelve Monkeys	Twelve Monkeys	0	1995	\N	129	Mystery,Sci-Fi,Thriller
+tt1211837	movie	Doctor Strange	Doctor Strange	0	2016	\N	115	Action,Adventure,Fantasy
+tt1392214	movie	Prisoners	Prisoners	0	2013	\N	153	Crime,Drama,Mystery
+tt1637725	movie	Ted	Ted	0	2012	\N	106	Comedy
+tt0120903	movie	X-Men	X-Men	0	2000	\N	104	Action,Adventure,Sci-Fi
+tt1446714	movie	Prometheus	Prometheus	0	2012	\N	124	Adventure,Mystery,Sci-Fi
+tt1024648	movie	Argo	Argo	0	2012	\N	120	Biography,Drama,Thriller
+tt0936501	movie	Taken	Taken	0	2008	\N	90	Action,Thriller
+tt2543164	movie	Arrival	Arrival	0	2016	\N	116	Drama,Mystery,Sci-Fi
+tt2294629	movie	Frozen	Frozen	0	2013	\N	102	Adventure,Animation,Comedy
+tt2562232	movie	Birdman or (The Unexpected Virtue of Ignorance)	Birdman or (The Unexpected Virtue of Ignorance)	0	2014	\N	119	Comedy,Drama
+tt0113277	movie	Heat	Heat	0	1995	\N	170	Crime,Drama,Thriller
+tt0758758	movie	Into the Wild	Into the Wild	0	2007	\N	148	Adventure,Biography,Drama
+tt0780504	movie	Drive	Drive	0	2011	\N	100	Crime,Drama
+tt0948470	movie	The Amazing Spider-Man	The Amazing Spider-Man	0	2012	\N	136	Action,Sci-Fi
+tt0478970	movie	Ant-Man	Ant-Man	0	2015	\N	117	Action,Adventure,Comedy
+tt3501632	movie	Thor: Ragnarok	Thor: Ragnarok	0	2017	\N	130	Action,Adventure,Comedy
+tt0073195	movie	Jaws	Jaws	0	1975	\N	124	Adventure,Drama,Thriller
+tt3896198	movie	Guardians of the Galaxy Vol. 2	Guardians of the Galaxy Vol. 2	0	2017	\N	136	Action,Adventure,Comedy
+tt2527336	movie	Star Wars: Episode VIII - The Last Jedi	Star Wars: Episode VIII - The Last Jedi	0	2017	\N	152	Action,Adventure,Fantasy
+tt0316654	movie	Spider-Man 2	Spider-Man 2	0	2004	\N	127	Action,Adventure,Sci-Fi
+tt3748528	movie	Rogue One: A Star Wars Story	Rogue One	0	2016	\N	133	Action,Adventure,Sci-Fi
+tt0451279	movie	Wonder Woman	Wonder Woman	0	2017	\N	141	Action,Adventure,Fantasy
+tt0295297	movie	Harry Potter and the Chamber of Secrets	Harry Potter and the Chamber of Secrets	0	2002	\N	161	Adventure,Family,Fantasy
+tt1276104	movie	Looper	Looper	0	2012	\N	113	Action,Crime,Drama
+tt0304141	movie	Harry Potter and the Prisoner of Azkaban	Harry Potter and the Prisoner of Azkaban	0	2004	\N	142	Adventure,Family,Fantasy
+tt1250777	movie	Kick-Ass	Kick-Ass	0	2010	\N	117	Action,Adventure,Comedy
+tt0330373	movie	Harry Potter and the Goblet of Fire	Harry Potter and the Goblet of Fire	0	2005	\N	157	Adventure,Family,Fantasy
+tt0116629	movie	Independence Day	Independence Day	0	1996	\N	145	Action,Adventure,Sci-Fi
+tt0120735	movie	Lock, Stock and Two Smoking Barrels	Lock, Stock and Two Smoking Barrels	0	1998	\N	107	Comedy,Crime
+tt0119488	movie	L.A. Confidential	L.A. Confidential	0	1997	\N	138	Crime,Drama,Mystery
+tt1219289	movie	Limitless	Limitless	0	2011	\N	105	Sci-Fi,Thriller
+tt0829482	movie	Superbad	Superbad	0	2007	\N	113	Comedy
+tt5013056	movie	Dunkirk	Dunkirk	0	2017	\N	106	Action,Drama,History
+tt0120363	movie	Toy Story 2	Toy Story 2	0	1999	\N	92	Adventure,Animation,Comedy
+tt1798709	movie	Her	Her	0	2013	\N	126	Drama,Romance,Sci-Fi
+tt0290334	movie	X2: X-Men United	X2	0	2003	\N	134	Action,Sci-Fi,Thriller
+tt2911666	movie	John Wick	John Wick	0	2014	\N	101	Action,Crime,Thriller
+tt0034583	movie	Casablanca	Casablanca	0	1942	\N	102	Drama,Romance,War
+tt0119654	movie	Men in Black	Men in Black	0	1997	\N	98	Action,Adventure,Comedy
+tt0234215	movie	The Matrix Reloaded	The Matrix Reloaded	0	2003	\N	138	Action,Sci-Fi
+tt1156398	movie	Zombieland	Zombieland	0	2009	\N	88	Adventure,Comedy,Horror
+tt0332280	movie	The Notebook	The Notebook	0	2004	\N	123	Drama,Romance
+tt1232829	movie	21 Jump Street	21 Jump Street	0	2012	\N	109	Action,Comedy,Crime
+tt0075148	movie	Rocky	Rocky	0	1976	\N	120	Drama,Sport
+tt0162222	movie	Cast Away	Cast Away	0	2000	\N	143	Adventure,Drama,Romance
+tt0240772	movie	Ocean's Eleven	Ocean's Eleven	0	2001	\N	116	Crime,Thriller
+tt0258463	movie	The Bourne Identity	The Bourne Identity	0	2002	\N	119	Action,Mystery,Thriller
+tt0365748	movie	Shaun of the Dead	Shaun of the Dead	0	2004	\N	99	Comedy,Horror
+tt0181689	movie	Minority Report	Minority Report	0	2002	\N	145	Action,Crime,Mystery
+tt1318514	movie	Rise of the Planet of the Apes	Rise of the Planet of the Apes	0	2011	\N	105	Action,Drama,Sci-Fi
+tt0469494	movie	There Will Be Blood	There Will Be Blood	0	2007	\N	158	Drama
+tt0364569	movie	Oldboy	Oldeuboi	0	2003	\N	120	Action,Drama,Mystery
+tt1323594	movie	Despicable Me	Despicable Me	0	2010	\N	95	Animation,Comedy,Family
+tt0409459	movie	Watchmen	Watchmen	0	2009	\N	162	Action,Drama,Mystery
+tt0343818	movie	I, Robot	I, Robot	0	2004	\N	115	Action,Crime,Drama
+tt0071853	movie	Monty Python and the Holy Grail	Monty Python and the Holy Grail	0	1975	\N	91	Adventure,Comedy,Fantasy
+tt0413300	movie	Spider-Man 3	Spider-Man 3	0	2007	\N	139	Action,Sci-Fi
+tt0467406	movie	Juno	Juno	0	2007	\N	96	Comedy,Drama
+tt0450259	movie	Blood Diamond	Blood Diamond	0	2006	\N	143	Adventure,Drama,Thriller
+tt0373889	movie	Harry Potter and the Order of the Phoenix	Harry Potter and the Order of the Phoenix	0	2007	\N	138	Action,Adventure,Family
+tt3460252	movie	The Hateful Eight	The Hateful Eight	0	2015	\N	168	Crime,Drama,Mystery
+tt2250912	movie	Spider-Man: Homecoming	Spider-Man: Homecoming	0	2017	\N	133	Action,Adventure,Sci-Fi
+tt1483013	movie	Oblivion	Oblivion	0	2013	\N	124	Action,Adventure,Sci-Fi
+tt0332452	movie	Troy	Troy	0	2004	\N	163	Drama,History
+tt0376994	movie	X-Men: The Last Stand	X-Men: The Last Stand	0	2006	\N	104	Action,Sci-Fi
+tt0945513	movie	Source Code	Source Code	0	2011	\N	93	Action,Drama,Mystery
+tt3783958	movie	La La Land	La La Land	0	2016	\N	128	Comedy,Drama,Music
+tt1298650	movie	Pirates of the Caribbean: On Stranger Tides	Pirates of the Caribbean: On Stranger Tides	0	2011	\N	136	Action,Adventure,Fantasy
+tt0095953	movie	Rain Man	Rain Man	0	1988	\N	133	Drama
+tt1408101	movie	Star Trek Into Darkness	Star Trek Into Darkness	0	2013	\N	132	Action,Adventure,Sci-Fi
+tt1022603	movie	500 Days of Summer	(500) Days of Summer	0	2009	\N	95	Comedy,Drama,Romance
+tt1663662	movie	Pacific Rim	Pacific Rim	0	2013	\N	131	Action,Adventure,Sci-Fi
+tt2310332	movie	The Hobbit: The Battle of the Five Armies	The Hobbit: The Battle of the Five Armies	0	2014	\N	144	Adventure,Fantasy
+tt0144084	movie	American Psycho	American Psycho	0	2000	\N	101	Comedy,Crime,Drama
+tt0458525	movie	X-Men Origins: Wolverine	X-Men Origins: Wolverine	0	2009	\N	107	Action,Adventure,Sci-Fi
+tt1343092	movie	The Great Gatsby	The Great Gatsby	0	2013	\N	143	Drama,Romance
+tt1570728	movie	Crazy, Stupid, Love.	Crazy, Stupid, Love.	0	2011	\N	118	Comedy,Drama,Romance
+tt0096874	movie	Back to the Future Part II	Back to the Future Part II	0	1989	\N	108	Adventure,Comedy,Sci-Fi
+tt1411697	movie	The Hangover Part II	The Hangover Part II	0	2011	\N	102	Comedy
+tt0926084	movie	Harry Potter and the Deathly Hallows: Part 1	Harry Potter and the Deathly Hallows: Part 1	0	2010	\N	146	Adventure,Family,Fantasy
+tt0470752	movie	Ex Machina	Ex Machina	0	2014	\N	108	Drama,Mystery,Sci-Fi
+tt0206634	movie	Children of Men	Children of Men	0	2006	\N	109	Drama,Thriller
+tt5052448	movie	Get Out	Get Out	0	2017	\N	104	Horror,Mystery,Thriller
+tt0425112	movie	Hot Fuzz	Hot Fuzz	0	2007	\N	121	Action,Comedy,Mystery
+tt0099785	movie	Home Alone	Home Alone	0	1990	\N	103	Comedy,Family
+tt1229238	movie	Mission: Impossible - Ghost Protocol	Mission: Impossible - Ghost Protocol	0	2011	\N	132	Action,Adventure,Thriller
+tt0417741	movie	Harry Potter and the Half-Blood Prince	Harry Potter and the Half-Blood Prince	0	2009	\N	153	Action,Adventure,Family
+tt1659337	movie	The Perks of Being a Wallflower	The Perks of Being a Wallflower	0	2012	\N	103	Drama,Romance
+tt5463162	movie	Deadpool 2	Deadpool 2	0	2018	\N	119	Action,Adventure,Comedy
+tt0112641	movie	Casino	Casino	0	1995	\N	178	Crime,Drama
+tt0289879	movie	The Butterfly Effect	The Butterfly Effect	0	2004	\N	113	Drama,Sci-Fi,Thriller
+tt0356910	movie	Mr. & Mrs. Smith	Mr. & Mrs. Smith	0	2005	\N	120	Action,Comedy,Crime
+tt1800241	movie	American Hustle	American Hustle	0	2013	\N	138	Crime,Drama
+tt0057012	movie	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	0	1964	\N	95	Comedy
+tt0242653	movie	The Matrix Revolutions	The Matrix Revolutions	0	2003	\N	129	Action,Sci-Fi
+tt0099487	movie	Edward Scissorhands	Edward Scissorhands	0	1990	\N	105	Drama,Fantasy,Romance
+tt2872718	movie	Nightcrawler	Nightcrawler	0	2014	\N	117	Crime,Drama,Thriller
+tt0448157	movie	Hancock	Hancock	0	2008	\N	92	Action,Fantasy
+tt0087469	movie	Indiana Jones and the Temple of Doom	Indiana Jones and the Temple of Doom	0	1984	\N	118	Action,Adventure
+tt0449059	movie	Little Miss Sunshine	Little Miss Sunshine	0	2006	\N	101	Comedy,Drama
+tt0454921	movie	The Pursuit of Happyness	The Pursuit of Happyness	0	2006	\N	117	Biography,Drama
+tt1396484	movie	It	It	0	2017	\N	135	Horror
+tt0268380	movie	Ice Age	Ice Age	0	2002	\N	81	Adventure,Animation,Comedy
+tt2872732	movie	Lucy	Lucy	0	2014	\N	89	Action,Sci-Fi,Thriller
+tt0372183	movie	The Bourne Supremacy	The Bourne Supremacy	0	2004	\N	108	Action,Mystery,Thriller
+tt1457767	movie	The Conjuring	The Conjuring	0	2013	\N	112	Horror,Mystery,Thriller
+tt0800080	movie	The Incredible Hulk	The Incredible Hulk	0	2008	\N	112	Action,Adventure,Sci-Fi
+tt2179136	movie	American Sniper	American Sniper	0	2014	\N	133	Action,Biography,Drama
+tt0790636	movie	Dallas Buyers Club	Dallas Buyers Club	0	2013	\N	117	Biography,Drama
+tt0047396	movie	Rear Window	Rear Window	0	1954	\N	112	Mystery,Thriller
+tt1291584	movie	Warrior	Warrior	0	2011	\N	140	Drama,Sport
+tt0119116	movie	The Fifth Element	The Fifth Element	0	1997	\N	126	Action,Adventure,Sci-Fi
+tt0443706	movie	Zodiac	Zodiac	0	2007	\N	157	Crime,Drama,Mystery
+tt1430132	movie	The Wolverine	The Wolverine	0	2013	\N	126	Action,Adventure,Sci-Fi
+tt1856101	movie	Blade Runner 2049	Blade Runner 2049	0	2017	\N	164	Action,Drama,Mystery
+tt1840309	movie	Divergent	Divergent	0	2014	\N	139	Action,Adventure,Mystery
+tt0375679	movie	Crash	Crash	0	2004	\N	112	Crime,Drama,Thriller
+tt1979320	movie	Rush	Rush	0	2013	\N	123	Biography,Drama,Sport
+tt1499658	movie	Horrible Bosses	Horrible Bosses	0	2011	\N	98	Comedy,Crime
+tt0314331	movie	Love, Actually	Love Actually	0	2003	\N	135	Comedy,Drama,Romance
+tt1535108	movie	Elysium	Elysium	0	2013	\N	109	Action,Drama,Sci-Fi
+tt0367882	movie	Indiana Jones and the Kingdom of the Crystal Skull	Indiana Jones and the Kingdom of the Crystal Skull	0	2008	\N	122	Action,Adventure
+tt1454029	movie	The Help	The Help	0	2011	\N	146	Drama
+tt1099212	movie	Twilight	Twilight	0	2008	\N	122	Drama,Fantasy,Romance
+tt1727824	movie	Bohemian Rhapsody	Bohemian Rhapsody	0	2018	\N	134	Biography,Drama,Music
+tt1515091	movie	Sherlock Holmes: A Game of Shadows	Sherlock Holmes: A Game of Shadows	0	2011	\N	129	Action,Adventure,Crime
+tt0887912	movie	The Hurt Locker	The Hurt Locker	0	2008	\N	131	Drama,Thriller,War
+tt0367594	movie	Charlie and the Chocolate Factory	Charlie and the Chocolate Factory	0	2005	\N	115	Adventure,Comedy,Family
+tt2948356	movie	Zootopia	Zootopia	0	2016	\N	108	Adventure,Animation,Comedy
+tt0101414	movie	Beauty and the Beast	Beauty and the Beast	0	1991	\N	84	Animation,Family,Fantasy
+tt1872181	movie	The Amazing Spider-Man 2	The Amazing Spider-Man 2	0	2014	\N	142	Action,Adventure,Sci-Fi
+tt1568346	movie	The Girl with the Dragon Tattoo	The Girl with the Dragon Tattoo	0	2011	\N	158	Crime,Drama,Mystery
+tt0327056	movie	Mystic River	Mystic River	0	2003	\N	138	Crime,Drama,Mystery
+tt1535109	movie	Captain Phillips	Captain Phillips	0	2013	\N	134	Biography,Crime,Drama
+tt2103281	movie	Dawn of the Planet of the Apes	Dawn of the Planet of the Apes	0	2014	\N	130	Action,Adventure,Drama
+tt0319061	movie	Big Fish	Big Fish	0	2003	\N	125	Adventure,Drama,Fantasy
+tt0407304	movie	War of the Worlds	War of the Worlds	0	2005	\N	116	Adventure,Sci-Fi,Thriller
+tt1790864	movie	The Maze Runner	The Maze Runner	0	2014	\N	113	Action,Mystery,Sci-Fi
+tt0319262	movie	The Day After Tomorrow	The Day After Tomorrow	0	2004	\N	124	Action,Adventure,Sci-Fi
+tt2713180	movie	Fury	Fury	0	2014	\N	134	Action,Drama,War
+tt0298148	movie	Shrek 2	Shrek 2	0	2004	\N	93	Adventure,Animation,Comedy
+tt0441773	movie	Kung Fu Panda	Kung Fu Panda	0	2008	\N	92	Action,Adventure,Animation
+tt3890160	movie	Baby Driver	Baby Driver	0	2017	\N	113	Action,Crime,Drama
+tt2119532	movie	Hacksaw Ridge	Hacksaw Ridge	0	2016	\N	139	Biography,Drama,History
+tt1951265	movie	The Hunger Games: Mockingjay - Part 1	The Hunger Games: Mockingjay - Part 1	0	2014	\N	123	Action,Adventure,Sci-Fi
+tt4154664	movie	Captain Marvel	Captain Marvel	0	2019	\N	123	Action,Adventure,Sci-Fi
+tt0097165	movie	Dead Poets Society	Dead Poets Society	0	1989	\N	128	Comedy,Drama
+tt4972582	movie	Split	Split	0	2016	\N	117	Horror,Thriller
+tt2245084	movie	Big Hero 6	Big Hero 6	0	2014	\N	102	Action,Adventure,Animation
+tt0335266	movie	Lost in Translation	Lost in Translation	0	2003	\N	102	Drama
+tt0830515	movie	Quantum of Solace	Quantum of Solace	0	2008	\N	106	Action,Adventure,Thriller
+tt1895587	movie	Spotlight	Spotlight	0	2015	\N	129	Biography,Crime,Drama
+tt0217505	movie	Gangs of New York	Gangs of New York	0	2002	\N	167	Crime,Drama
+tt3183660	movie	Fantastic Beasts and Where to Find Them	Fantastic Beasts and Where to Find Them	0	2016	\N	132	Adventure,Family,Fantasy
+tt1723121	movie	We're the Millers	We're the Millers	0	2013	\N	110	Comedy,Crime
+tt0382625	movie	The Da Vinci Code	The Da Vinci Code	0	2006	\N	149	Action,Mystery,Thriller
+tt0398286	movie	Tangled	Tangled	0	2010	\N	100	Adventure,Animation,Comedy
+tt0120591	movie	Armageddon	Armageddon	0	1998	\N	151	Action,Adventure,Sci-Fi
+tt0325710	movie	The Last Samurai	The Last Samurai	0	2003	\N	154	Action,Drama,War
+tt0362227	movie	The Terminal	The Terminal	0	2004	\N	128	Comedy,Drama,Romance
+tt0337978	movie	Live Free or Die Hard	Live Free or Die Hard	0	2007	\N	128	Action,Thriller
+tt5027774	movie	Three Billboards Outside Ebbing, Missouri	Three Billboards Outside Ebbing, Missouri	0	2017	\N	115	Comedy,Crime,Drama
+tt0360717	movie	King Kong	King Kong	0	2005	\N	187	Action,Adventure,Drama
+tt0099088	movie	Back to the Future Part III	Back to the Future Part III	0	1990	\N	118	Adventure,Comedy,Sci-Fi
+tt0765429	movie	American Gangster	American Gangster	0	2007	\N	157	Biography,Crime,Drama
+tt0033467	movie	Citizen Kane	Citizen Kane	0	1941	\N	119	Drama,Mystery
+tt0405422	movie	The 40-Year-Old Virgin	The 40 Year Old Virgin	0	2005	\N	116	Comedy,Romance
+tt0120616	movie	The Mummy	The Mummy	0	1999	\N	124	Action,Adventure,Fantasy
+tt0038650	movie	It's a Wonderful Life	It's a Wonderful Life	0	1946	\N	130	Drama,Family,Fantasy
+tt2980516	movie	The Theory of Everything	The Theory of Everything	0	2014	\N	123	Biography,Drama,Romance
+tt1399103	movie	Transformers: Dark of the Moon	Transformers: Dark of the Moon	0	2011	\N	154	Action,Adventure,Sci-Fi
+tt0780536	movie	In Bruges	In Bruges	0	2008	\N	107	Comedy,Crime,Drama
+tt3385516	movie	X-Men: Apocalypse	X-Men: Apocalypse	0	2016	\N	144	Action,Adventure,Sci-Fi
+tt1055369	movie	Transformers: Revenge of the Fallen	Transformers: Revenge of the Fallen	0	2009	\N	150	Action,Adventure,Sci-Fi
+tt0093779	movie	The Princess Bride	The Princess Bride	0	1987	\N	98	Adventure,Family,Fantasy
+tt1245492	movie	This Is the End	This Is the End	0	2013	\N	107	Comedy
+tt0117060	movie	Mission: Impossible	Mission: Impossible	0	1996	\N	110	Action,Adventure,Thriller
+tt0217869	movie	Unbreakable	Unbreakable	0	2000	\N	106	Drama,Mystery,Sci-Fi
+tt1014759	movie	Alice in Wonderland	Alice in Wonderland	0	2010	\N	108	Adventure,Family,Fantasy
+tt0139654	movie	Training Day	Training Day	0	2001	\N	122	Crime,Drama,Thriller
+tt1605783	movie	Midnight in Paris	Midnight in Paris	0	2011	\N	96	Comedy,Fantasy,Romance
+tt2379713	movie	Spectre	Spectre	0	2015	\N	148	Action,Adventure,Thriller
+tt0181852	movie	Terminator 3: Rise of the Machines	Terminator 3: Rise of the Machines	0	2003	\N	109	Action,Sci-Fi
+tt0831387	movie	Godzilla	Godzilla	0	2014	\N	123	Action,Adventure,Sci-Fi
+tt0091763	movie	Platoon	Platoon	0	1986	\N	120	Drama,War
+tt0387564	movie	Saw	Saw	0	2004	\N	103	Horror,Mystery,Thriller
+tt0942385	movie	Tropic Thunder	Tropic Thunder	0	2008	\N	107	Action,Comedy,War
+tt0163651	movie	American Pie	American Pie	0	1999	\N	95	Comedy
+tt0032138	movie	The Wizard of Oz	The Wizard of Oz	0	1939	\N	102	Adventure,Family,Fantasy
+tt1060277	movie	Cloverfield	Cloverfield	0	2008	\N	85	Horror,Sci-Fi,Thriller
+tt1772341	movie	Wreck-It Ralph	Wreck-It Ralph	0	2012	\N	101	Adventure,Animation,Comedy
+tt0119567	movie	The Lost World: Jurassic Park	The Lost World: Jurassic Park	0	1997	\N	129	Action,Adventure,Sci-Fi
+tt0315327	movie	Bruce Almighty	Bruce Almighty	0	2003	\N	101	Comedy,Drama,Fantasy
+tt0289043	movie	28 Days Later...	28 Days Later...	0	2002	\N	113	Drama,Horror,Sci-Fi
+tt0093773	movie	Predator	Predator	0	1987	\N	107	Action,Adventure,Sci-Fi
+tt1905041	movie	Fast & Furious 6	Furious 6	0	2013	\N	130	Action,Adventure,Thriller
+tt1690953	movie	Despicable Me 2	Despicable Me 2	0	2013	\N	98	Adventure,Animation,Comedy
+tt1637688	movie	In Time	In Time	0	2011	\N	109	Action,Sci-Fi,Thriller
+tt0105695	movie	Unforgiven	Unforgiven	0	1992	\N	130	Drama,Western
+tt0446029	movie	Scott Pilgrim vs. the World	Scott Pilgrim vs. the World	0	2010	\N	112	Action,Comedy,Fantasy
+tt0974015	movie	Justice League	Justice League	0	2017	\N	120	Action,Adventure,Fantasy
+tt1217209	movie	Brave	Brave	0	2012	\N	93	Adventure,Animation,Comedy
+tt1259521	movie	The Cabin in the Woods	The Cabin in the Woods	0	2011	\N	95	Horror
+tt0458352	movie	The Devil Wears Prada	The Devil Wears Prada	0	2006	\N	109	Comedy,Drama
+tt0083866	movie	E.T. the Extra-Terrestrial	E.T. the Extra-Terrestrial	0	1982	\N	115	Family,Sci-Fi
+tt0363771	movie	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	0	2005	\N	143	Adventure,Family,Fantasy
+tt0112864	movie	Die Hard with a Vengeance	Die Hard: With a Vengeance	0	1995	\N	128	Action,Adventure,Thriller
+tt0086879	movie	Amadeus	Amadeus	0	1984	\N	160	Biography,Drama,History
+tt0265086	movie	Black Hawk Down	Black Hawk Down	0	2001	\N	144	Drama,History,War
+tt0493464	movie	Wanted	Wanted	0	2008	\N	110	Action,Crime,Fantasy
+tt6644200	movie	A Quiet Place	A Quiet Place	0	2018	\N	90	Drama,Horror,Sci-Fi
+tt0079470	movie	Monty Python's Life of Brian	Life of Brian	0	1979	\N	94	Comedy
+tt0084787	movie	The Thing	The Thing	0	1982	\N	109	Horror,Mystery,Sci-Fi
+tt0351283	movie	Madagascar	Madagascar	0	2005	\N	86	Adventure,Animation,Comedy
+tt0070047	movie	The Exorcist	The Exorcist	0	1973	\N	122	Horror
+tt0103639	movie	Aladdin	Aladdin	0	1992	\N	90	Adventure,Animation,Comedy
+tt7131622	movie	Once Upon a Time... in Hollywood	Once Upon a Time ...in Hollywood	0	2019	\N	161	Comedy,Drama
+tt2820852	movie	Furious 7	Furious Seven	0	2015	\N	137	Action,Adventure,Thriller
+tt0092005	movie	Stand by Me	Stand by Me	0	1986	\N	89	Adventure,Drama
+tt3397884	movie	Sicario	Sicario	0	2015	\N	121	Action,Crime,Drama
+tt0317219	movie	Cars	Cars	0	2006	\N	117	Animation,Comedy,Family
+tt0443543	movie	The Illusionist	The Illusionist	0	2006	\N	110	Drama,Fantasy,History
+tt0369339	movie	Collateral	Collateral	0	2004	\N	120	Crime,Drama,Thriller
+tt0349903	movie	Ocean's Twelve	Ocean's Twelve	0	2004	\N	125	Crime,Thriller
+tt1282140	movie	Easy A	Easy A	0	2010	\N	92	Comedy,Drama,Romance
+tt0443453	movie	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	0	2006	\N	84	Comedy
+tt0361862	movie	The Machinist	The Machinist	0	2004	\N	101	Drama,Thriller
+tt1210166	movie	Moneyball	Moneyball	0	2011	\N	133	Biography,Drama,Sport
+tt0478311	movie	Knocked Up	Knocked Up	0	2007	\N	129	Comedy,Romance
+tt1596343	movie	Fast Five	Fast Five	0	2011	\N	130	Action,Adventure,Thriller
+tt0109686	movie	Dumb and Dumber	Dumb and Dumber	0	1994	\N	107	Comedy
+tt1190080	movie	2012	2012	0	2009	\N	158	Action,Adventure,Sci-Fi
+tt0087332	movie	Ghostbusters	Ghostbusters	0	1984	\N	105	Action,Comedy,Fantasy
+tt0099674	movie	The Godfather: Part III	The Godfather: Part III	0	1990	\N	162	Crime,Drama
+tt0405094	movie	The Lives of Others	Das Leben der Anderen	0	2006	\N	137	Drama,Mystery,Thriller
+tt3170832	movie	Room	Room	0	2015	\N	118	Drama,Thriller
+tt0052357	movie	Vertigo	Vertigo	0	1958	\N	128	Mystery,Romance,Thriller
+tt5580390	movie	The Shape of Water	The Shape of Water	0	2017	\N	123	Adventure,Drama,Fantasy
+tt0119094	movie	Face/Off	Face/Off	0	1997	\N	138	Action,Crime,Sci-Fi
+tt1371111	movie	Cloud Atlas	Cloud Atlas	0	2012	\N	172	Action,Drama,Mystery
+tt1542344	movie	127 Hours	127 Hours	0	2010	\N	94	Biography,Drama
+tt0840361	movie	The Town	The Town	0	2010	\N	125	Crime,Drama,Thriller
+tt0438488	movie	Terminator Salvation	Terminator Salvation	0	2009	\N	115	Action,Sci-Fi
+tt0232500	movie	The Fast and the Furious	The Fast and the Furious	0	2001	\N	106	Action,Crime,Thriller
+tt0408236	movie	Sweeney Todd: The Demon Barber of Fleet Street	Sweeney Todd: The Demon Barber of Fleet Street	0	2007	\N	116	Drama,Horror,Musical
+tt2294449	movie	22 Jump Street	22 Jump Street	0	2014	\N	112	Action,Comedy,Crime
+tt0317740	movie	The Italian Job	The Italian Job	0	2003	\N	111	Action,Crime,Thriller
+tt4425200	movie	John Wick: Chapter 2	John Wick: Chapter 2	0	2017	\N	122	Action,Crime,Thriller
+tt0088847	movie	The Breakfast Club	The Breakfast Club	0	1985	\N	97	Comedy,Drama
+tt1677720	movie	Ready Player One	Ready Player One	0	2018	\N	140	Action,Adventure,Sci-Fi
+tt1596363	movie	The Big Short	The Big Short	0	2015	\N	130	Biography,Comedy,Drama
+tt0120912	movie	Men in Black II	Men in Black II	0	2002	\N	88	Action,Adventure,Comedy
+tt1650062	movie	Super 8	Super 8	0	2011	\N	112	Action,Mystery,Sci-Fi
+tt2582846	movie	The Fault in Our Stars	The Fault in Our Stars	0	2014	\N	126	Drama,Romance
+tt1632708	movie	Friends with Benefits	Friends with Benefits	0	2011	\N	109	Comedy,Romance
+tt0119174	movie	The Game	The Game	0	1997	\N	129	Drama,Mystery,Thriller
+tt1355644	movie	Passengers	Passengers	0	2016	\N	116	Drama,Romance,Sci-Fi
+tt0286106	movie	Signs	Signs	0	2002	\N	106	Drama,Mystery,Sci-Fi
+tt0110475	movie	The Mask	The Mask	0	1994	\N	101	Comedy,Crime,Fantasy
+tt1587310	movie	Maleficent	Maleficent	0	2014	\N	97	Action,Adventure,Family
+tt0964517	movie	The Fighter	The Fighter	0	2010	\N	116	Biography,Drama,Sport
+tt2381249	movie	Mission: Impossible - Rogue Nation	Mission: Impossible - Rogue Nation	0	2015	\N	131	Action,Adventure,Thriller
+tt0096895	movie	Batman	Batman	0	1989	\N	126	Action,Adventure
+tt1065073	movie	Boyhood	Boyhood	0	2014	\N	165	Drama
+tt0230600	movie	The Others	The Others	0	2001	\N	101	Horror,Mystery,Thriller
+tt0099423	movie	Die Hard 2	Die Hard 2	0	1990	\N	124	Action,Thriller
+tt0454848	movie	Inside Man	Inside Man	0	2006	\N	129	Crime,Drama,Mystery
+tt1477834	movie	Aquaman	Aquaman	0	2018	\N	143	Action,Adventure,Fantasy
+tt1409024	movie	Men in Black 3	Men in Black 3	0	2012	\N	106	Action,Adventure,Comedy
+tt0395169	movie	Hotel Rwanda	Hotel Rwanda	0	2004	\N	121	Biography,Drama,History
+tt0396269	movie	Wedding Crashers	Wedding Crashers	0	2005	\N	119	Comedy,Romance
+tt1182345	movie	Moon	Moon	0	2009	\N	97	Drama,Mystery,Sci-Fi
+tt1270797	movie	Venom	Venom	0	2018	\N	112	Action,Sci-Fi,Thriller
+tt1068680	movie	Yes Man	Yes Man	0	2008	\N	104	Comedy,Romance
+tt0338751	movie	The Aviator	The Aviator	0	2004	\N	170	Biography,Drama
+tt2380307	movie	Coco	Coco	0	2017	\N	105	Adventure,Animation,Family
+tt0357413	movie	Anchorman: The Legend of Ron Burgundy	Anchorman: The Legend of Ron Burgundy	0	2004	\N	94	Comedy
+tt0328107	movie	Man on Fire	Man on Fire	0	2004	\N	146	Action,Crime,Drama
+tt0317919	movie	Mission: Impossible III	Mission: Impossible III	0	2006	\N	126	Action,Adventure,Thriller
+tt1187043	movie	3 Idiots	3 Idiots	0	2009	\N	170	Comedy,Drama
+tt0363163	movie	Downfall	Der Untergang	0	2004	\N	156	Biography,Drama,History
+tt1320253	movie	The Expendables	The Expendables	0	2010	\N	103	Action,Adventure,Thriller
+tt0162661	movie	Sleepy Hollow	Sleepy Hollow	0	1999	\N	105	Fantasy,Horror,Mystery
+tt0455944	movie	The Equalizer	The Equalizer	0	2014	\N	132	Action,Crime,Thriller
+tt0111257	movie	Speed	Speed	0	1994	\N	116	Action,Adventure,Thriller
+tt1490017	movie	The Lego Movie	The Lego Movie	0	2014	\N	100	Action,Adventure,Animation
+tt0377092	movie	Mean Girls	Mean Girls	0	2004	\N	97	Comedy
+tt0343660	movie	50 First Dates	50 First Dates	0	2004	\N	99	Comedy,Drama,Romance
+tt0118971	movie	The Devil's Advocate	The Devil's Advocate	0	1997	\N	144	Drama,Mystery,Thriller
+tt1231583	movie	Due Date	Due Date	0	2010	\N	95	Comedy,Drama
+tt1907668	movie	Flight	Flight	0	2012	\N	138	Drama,Thriller
+tt0119698	movie	Princess Mononoke	Mononoke-hime	0	1997	\N	134	Adventure,Animation,Fantasy
+tt0388795	movie	Brokeback Mountain	Brokeback Mountain	0	2005	\N	134	Drama,Romance
+tt1193138	movie	Up in the Air	Up in the Air	0	2009	\N	109	Comedy,Drama,Romance
+tt0298130	movie	The Ring	The Ring	0	2002	\N	115	Horror,Mystery
+tt1306980	movie	50/50	50/50	0	2011	\N	100	Comedy,Drama,Romance
+tt0496806	movie	Ocean's Thirteen	Ocean's Thirteen	0	2007	\N	122	Action,Crime,Thriller
+tt1453405	movie	Monsters University	Monsters University	0	2013	\N	104	Adventure,Animation,Comedy
+tt1104001	movie	TRON: Legacy	Tron	0	2010	\N	125	Action,Adventure,Sci-Fi
+tt0120667	movie	Fantastic Four	Fantastic Four	0	2005	\N	106	Action,Adventure,Fantasy
+tt0910936	movie	Pineapple Express	Pineapple Express	0	2008	\N	111	Action,Comedy,Crime
+tt0238380	movie	Equilibrium	Equilibrium	0	2002	\N	107	Action,Drama,Sci-Fi
+tt0081398	movie	Raging Bull	Raging Bull	0	1980	\N	129	Biography,Drama,Sport
+tt1748122	movie	Moonrise Kingdom	Moonrise Kingdom	0	2012	\N	94	Comedy,Drama,Romance
+tt0117500	movie	The Rock	The Rock	0	1996	\N	136	Action,Adventure,Thriller
+tt0213149	movie	Pearl Harbor	Pearl Harbor	0	2001	\N	183	Action,Drama,History
+tt0166924	movie	Mulholland Dr.	Mulholland Dr.	0	2001	\N	147	Drama,Mystery,Thriller
+tt0091042	movie	Ferris Bueller's Day Off	Ferris Bueller's Day Off	0	1986	\N	103	Comedy
+tt0120755	movie	Mission: Impossible II	Mission: Impossible II	0	2000	\N	123	Action,Adventure,Thriller
+tt0212338	movie	Meet the Parents	Meet the Parents	0	2000	\N	108	Comedy,Romance
+tt0462538	movie	The Simpsons Movie	The Simpsons Movie	0	2007	\N	87	Adventure,Animation,Comedy
+tt0822854	movie	Shooter	Shooter	0	2007	\N	124	Action,Drama,Thriller
+tt0119396	movie	Jackie Brown	Jackie Brown	0	1997	\N	154	Crime,Drama,Thriller
+tt0167190	movie	Hellboy	Hellboy	0	2004	\N	122	Action,Fantasy,Horror
+tt0477347	movie	Night at the Museum	Night at the Museum	0	2006	\N	108	Adventure,Comedy,Family
+tt0047478	movie	Seven Samurai	Shichinin no samurai	0	1954	\N	207	Action,Adventure,Drama
+tt0347149	movie	Howl's Moving Castle	Hauru no ugoku shiro	0	2004	\N	119	Adventure,Animation,Family
+tt0120601	movie	Being John Malkovich	Being John Malkovich	0	1999	\N	113	Comedy,Drama,Fantasy
+tt0887883	movie	Burn After Reading	Burn After Reading	0	2008	\N	96	Comedy,Crime,Drama
+tt1707386	movie	Les Misérables	Les Misérables	0	2012	\N	158	Drama,History,Musical
+tt0077416	movie	The Deer Hunter	The Deer Hunter	0	1978	\N	183	Drama,War
+tt1517451	movie	A Star Is Born	A Star Is Born	0	2018	\N	136	Drama,Music,Romance
+tt2788710	movie	The Interview	The Interview	0	2014	\N	112	Action,Adventure,Comedy
+tt1403865	movie	True Grit	True Grit	0	2010	\N	110	Drama,Western
+tt0790724	movie	Jack Reacher	Jack Reacher	0	2012	\N	130	Action,Crime,Thriller
+tt0399201	movie	The Island	The Island	0	2005	\N	136	Action,Sci-Fi,Thriller
+tt0425210	movie	Lucky Number Slevin	Lucky Number Slevin	0	2006	\N	110	Crime,Drama,Mystery
+tt0368891	movie	National Treasure	National Treasure	0	2004	\N	131	Action,Adventure,Mystery
+tt0970179	movie	Hugo	Hugo	0	2011	\N	126	Drama,Family,Fantasy
+tt0389860	movie	Click	Click	0	2006	\N	107	Comedy,Drama,Fantasy
+tt4633694	movie	Spider-Man: Into the Spider-Verse	Spider-Man: Into the Spider-Verse	0	2018	\N	117	Action,Adventure,Animation
+tt0209163	movie	The Mummy Returns	The Mummy Returns	0	2001	\N	130	Action,Adventure,Fantasy
+tt0087843	movie	Once Upon a Time in America	Once Upon a Time in America	0	1984	\N	229	Crime,Drama
+tt1646971	movie	How to Train Your Dragon 2	How to Train Your Dragon 2	0	2014	\N	102	Action,Adventure,Animation
+tt2109248	movie	Transformers: Age of Extinction	Transformers: Age of Extinction	0	2014	\N	165	Action,Adventure,Sci-Fi
+tt0360486	movie	Constantine	Constantine	0	2005	\N	121	Action,Fantasy,Horror
+tt0433035	movie	Real Steel	Real Steel	0	2011	\N	127	Action,Drama,Family
+tt0100802	movie	Total Recall	Total Recall	0	1990	\N	113	Action,Sci-Fi,Thriller
+tt2322441	movie	Fifty Shades of Grey	Fifty Shades of Grey	0	2015	\N	125	Drama,Romance,Thriller
+tt0113497	movie	Jumanji	Jumanji	0	1995	\N	104	Adventure,Comedy,Family
+tt0386588	movie	Hitch	Hitch	0	2005	\N	118	Comedy,Romance
+tt0399295	movie	Lord of War	Lord of War	0	2005	\N	122	Action,Crime,Drama
+tt0944835	movie	Salt	Salt	0	2010	\N	100	Action,Mystery,Thriller
+tt1764651	movie	The Expendables 2	The Expendables 2	0	2012	\N	103	Action,Adventure,Thriller
+tt0163025	movie	Jurassic Park III	Jurassic Park III	0	2001	\N	92	Action,Adventure,Sci-Fi
+tt0064116	movie	Once Upon a Time in the West	C'era una volta il West	0	1968	\N	165	Western
+tt0120663	movie	Eyes Wide Shut	Eyes Wide Shut	0	1999	\N	159	Drama,Mystery,Thriller
+tt2283362	movie	Jumanji: Welcome to the Jungle	Jumanji: Welcome to the Jungle	0	2017	\N	119	Action,Adventure,Comedy
+tt0453467	movie	Deja Vu	Deja Vu	0	2006	\N	126	Action,Crime,Sci-Fi
+tt0359950	movie	The Secret Life of Walter Mitty	The Secret Life of Walter Mitty	0	2013	\N	114	Comedy,Drama,Fantasy
+tt0110148	movie	Interview with the Vampire: The Vampire Chronicles	Interview with the Vampire: The Vampire Chronicles	0	1994	\N	123	Drama,Horror
+tt0104431	movie	Home Alone 2: Lost in New York	Home Alone 2: Lost in New York	0	1992	\N	120	Adventure,Comedy,Crime
+tt1125849	movie	The Wrestler	The Wrestler	0	2008	\N	109	Drama,Sport
+tt6966692	movie	Green Book	Green Book	0	2018	\N	130	Biography,Comedy,Drama
+tt0053125	movie	North by Northwest	North by Northwest	0	1959	\N	136	Adventure,Mystery,Thriller
+tt1041829	movie	The Proposal	The Proposal	0	2009	\N	108	Comedy,Drama,Romance
+tt0056592	movie	To Kill a Mockingbird	To Kill a Mockingbird	0	1962	\N	129	Crime,Drama
+tt0212720	movie	A.I. Artificial Intelligence	Artificial Intelligence: AI	0	2001	\N	146	Drama,Sci-Fi
+tt0129387	movie	There's Something About Mary	There's Something About Mary	0	1998	\N	119	Comedy,Romance
+tt1037705	movie	The Book of Eli	The Book of Eli	0	2010	\N	118	Action,Adventure,Drama
+tt1951261	movie	The Hangover Part III	The Hangover Part III	0	2013	\N	100	Comedy
+tt1397280	movie	Taken 2	Taken 2	0	2012	\N	92	Action,Thriller
+tt0147800	movie	10 Things I Hate About You	10 Things I Hate About You	0	1999	\N	97	Comedy,Drama,Romance
+tt0449467	movie	Babel	Babel	0	2006	\N	143	Drama
+tt0107688	movie	The Nightmare Before Christmas	The Nightmare Before Christmas	0	1993	\N	76	Animation,Family,Fantasy
+tt0489099	movie	Jumper	Jumper	0	2008	\N	88	Action,Adventure,Sci-Fi
+tt2194499	movie	About Time	About Time	0	2013	\N	123	Comedy,Drama,Fantasy
+tt1245526	movie	RED	RED	0	2010	\N	111	Action,Comedy,Crime
+tt0472043	movie	Apocalypto	Apocalypto	0	2006	\N	139	Action,Adventure,Drama
+tt0175880	movie	Magnolia	Magnolia	0	1999	\N	188	Drama
+tt0381849	movie	3:10 to Yuma	3:10 to Yuma	0	2007	\N	122	Action,Crime,Drama
+tt0878804	movie	The Blind Side	The Blind Side	0	2009	\N	129	Biography,Drama,Sport
+tt0071315	movie	Chinatown	Chinatown	0	1974	\N	130	Drama,Mystery,Thriller
+tt0293662	movie	The Transporter	The Transporter	0	2002	\N	92	Action,Crime,Thriller
+tt0379786	movie	Serenity	Serenity	0	2005	\N	119	Action,Adventure,Sci-Fi
+tt0814314	movie	Seven Pounds	Seven Pounds	0	2008	\N	123	Drama
+tt5095030	movie	Ant-Man and the Wasp	Ant-Man and the Wasp	0	2018	\N	118	Action,Adventure,Comedy
+tt1194173	movie	The Bourne Legacy	The Bourne Legacy	0	2012	\N	135	Action,Adventure,Thriller
+tt2004420	movie	Neighbors	Neighbors	0	2014	\N	97	Comedy
+tt0092099	movie	Top Gun	Top Gun	0	1986	\N	110	Action,Drama
+tt0031381	movie	Gone with the Wind	Gone with the Wind	0	1939	\N	238	Drama,History,Romance
+tt1179933	movie	10 Cloverfield Lane	10 Cloverfield Lane	0	2016	\N	103	Drama,Horror,Mystery
+tt0116367	movie	From Dusk Till Dawn	From Dusk Till Dawn	0	1996	\N	108	Action,Crime,Horror
+tt3682448	movie	Bridge of Spies	Bridge of Spies	0	2015	\N	142	Drama,History,Thriller
+tt0190590	movie	O Brother, Where Art Thou?	O Brother, Where Art Thou?	0	2000	\N	107	Adventure,Comedy,Crime
+tt0117571	movie	Scream	Scream	0	1996	\N	111	Horror,Mystery
+tt0100405	movie	Pretty Woman	Pretty Woman	0	1990	\N	119	Comedy,Romance
+tt1253863	movie	300: Rise of an Empire	300: Rise of an Empire	0	2014	\N	102	Action,Drama
+tt0884328	movie	The Mist	The Mist	0	2007	\N	126	Horror,Sci-Fi
+tt0119177	movie	Gattaca	Gattaca	0	1997	\N	106	Drama,Sci-Fi,Thriller
+tt1152836	movie	Public Enemies	Public Enemies	0	2009	\N	140	Biography,Crime,Drama
+tt0119528	movie	Liar Liar	Liar Liar	0	1997	\N	86	Comedy,Fantasy
+tt0413267	movie	Shrek the Third	Shrek the Third	0	2007	\N	93	Adventure,Animation,Comedy
+tt1951266	movie	The Hunger Games: Mockingjay - Part 2	The Hunger Games: Mockingjay - Part 2	0	2015	\N	137	Action,Adventure,Sci-Fi
+tt0348150	movie	Superman Returns	Superman Returns	0	2006	\N	154	Action,Sci-Fi
+tt0118880	movie	Con Air	Con Air	0	1997	\N	115	Action,Crime,Thriller
+tt1735898	movie	Snow White and the Huntsman	Snow White and the Huntsman	0	2012	\N	127	Action,Adventure,Drama
+tt0094226	movie	The Untouchables	The Untouchables	0	1987	\N	119	Crime,Drama,Thriller
+tt1981677	movie	Pitch Perfect	Pitch Perfect	0	2012	\N	112	Comedy,Music,Romance
+tt0103644	movie	Alien³	Alien³	0	1992	\N	114	Action,Horror,Sci-Fi
+tt1591095	movie	Insidious	Insidious	0	2010	\N	103	Horror,Mystery,Thriller
+tt0109040	movie	Ace Ventura: Pet Detective	Ace Ventura: Pet Detective	0	1994	\N	86	Comedy
+tt0800320	movie	Clash of the Titans	Clash of the Titans	0	2010	\N	106	Action,Adventure,Fantasy
+tt0119008	movie	Donnie Brasco	Donnie Brasco	0	1997	\N	127	Biography,Crime,Drama
+tt0473075	movie	Prince of Persia: The Sands of Time	Prince of Persia: The Sands of Time	0	2010	\N	116	Action,Fantasy
+tt0119822	movie	As Good as It Gets	As Good as It Gets	0	1997	\N	139	Comedy,Drama,Romance
+tt0103776	movie	Batman Returns	Batman Returns	0	1992	\N	126	Action,Crime,Fantasy
+tt0278504	movie	Insomnia	Insomnia	0	2002	\N	118	Drama,Mystery,Thriller
+tt0808151	movie	Angels & Demons	Angels & Demons	0	2009	\N	138	Action,Mystery,Thriller
+tt4912910	movie	Mission: Impossible - Fallout	Mission: Impossible - Fallout	0	2018	\N	147	Action,Adventure,Thriller
+tt1197624	movie	Law Abiding Citizen	Law Abiding Citizen	0	2009	\N	109	Action,Crime,Drama
+tt1645170	movie	The Dictator	The Dictator	0	2012	\N	83	Comedy
+tt3778644	movie	Solo: A Star Wars Story	Solo: A Star Wars Story	0	2018	\N	135	Action,Adventure,Sci-Fi
+tt1790885	movie	Zero Dark Thirty	Zero Dark Thirty	0	2012	\N	157	Drama,Thriller
+tt1706620	movie	Snowpiercer	Snowpiercer	0	2013	\N	126	Action,Drama,Sci-Fi
+tt1133985	movie	Green Lantern	Green Lantern	0	2011	\N	114	Action,Adventure,Sci-Fi
+tt0203009	movie	Moulin Rouge!	Moulin Rouge!	0	2001	\N	127	Drama,Musical,Romance
+tt6320628	movie	Spider-Man: Far from Home	Spider-Man: Far from Home	0	2019	\N	129	Action,Adventure,Sci-Fi
+tt0120201	movie	Starship Troopers	Starship Troopers	0	1997	\N	129	Action,Adventure,Sci-Fi
+tt1478338	movie	Bridesmaids	Bridesmaids	0	2011	\N	125	Comedy,Romance
+tt0320661	movie	Kingdom of Heaven	Kingdom of Heaven	0	2005	\N	144	Action,Adventure,Drama
+tt1028528	movie	Death Proof	Death Proof	0	2007	\N	113	Action,Thriller
+tt0125439	movie	Notting Hill	Notting Hill	0	1999	\N	124	Comedy,Drama,Romance
+tt0838283	movie	Step Brothers	Step Brothers	0	2008	\N	98	Comedy
+tt2106476	movie	The Hunt	Jagten	0	2012	\N	115	Drama
+tt1259571	movie	The Twilight Saga: New Moon	The Twilight Saga: New Moon	0	2009	\N	130	Adventure,Drama,Fantasy
+tt0120623	movie	A Bug's Life	A Bug's Life	0	1998	\N	95	Adventure,Animation,Comedy
+tt1091191	movie	Lone Survivor	Lone Survivor	0	2013	\N	121	Action,Biography,Drama
+tt3799694	movie	The Nice Guys	The Nice Guys	0	2016	\N	116	Action,Comedy,Crime
+tt0112384	movie	Apollo 13	Apollo 13	0	1995	\N	140	Adventure,Drama,History
+tt0332379	movie	School of Rock	The School of Rock	0	2003	\N	109	Comedy,Music
+tt0800039	movie	Forgetting Sarah Marshall	Forgetting Sarah Marshall	0	2008	\N	111	Comedy,Drama,Romance
+tt0106977	movie	The Fugitive	The Fugitive	0	1993	\N	130	Action,Crime,Drama
+tt2771200	movie	Beauty and the Beast	Beauty and the Beast	0	2017	\N	129	Family,Fantasy,Musical
+tt0265666	movie	The Royal Tenenbaums	The Royal Tenenbaums	0	2001	\N	110	Comedy,Drama
+tt0056172	movie	Lawrence of Arabia	Lawrence of Arabia	0	1962	\N	228	Adventure,Biography,Drama
+tt3731562	movie	Kong: Skull Island	Kong: Skull Island	0	2017	\N	118	Action,Adventure,Fantasy
+tt0187078	movie	Gone in 60 Seconds	Gone in Sixty Seconds	0	2000	\N	118	Action,Crime,Thriller
+tt0096283	movie	My Neighbor Totoro	Tonari no Totoro	0	1988	\N	86	Animation,Family,Fantasy
+tt2798920	movie	Annihilation	Annihilation	0	2018	\N	115	Adventure,Drama,Horror
+tt1638355	movie	The Man from U.N.C.L.E.	The Man from U.N.C.L.E.	0	2015	\N	116	Action,Adventure,Comedy
+tt1013752	movie	Fast & Furious	Fast & Furious	0	2009	\N	107	Action,Adventure,Thriller
+tt0120669	movie	Fear and Loathing in Las Vegas	Fear and Loathing in Las Vegas	0	1998	\N	118	Adventure,Comedy,Drama
+tt0411477	movie	Hellboy II: The Golden Army	Hellboy II: The Golden Army	0	2008	\N	120	Action,Adventure,Fantasy
+tt0112471	movie	Before Sunrise	Before Sunrise	0	1995	\N	101	Drama,Romance
+tt3040964	movie	The Jungle Book	The Jungle Book	0	2016	\N	106	Adventure,Drama,Family
+tt4649466	movie	Kingsman: The Golden Circle	Kingsman: The Golden Circle	0	2017	\N	141	Action,Adventure,Comedy
+tt0463854	movie	28 Weeks Later	28 Weeks Later	0	2007	\N	100	Drama,Horror,Sci-Fi
+tt0450385	movie	1408	1408	0	2007	\N	104	Fantasy,Horror,Mystery
+tt0401729	movie	John Carter	John Carter	0	2012	\N	132	Action,Adventure,Sci-Fi
+tt1340138	movie	Terminator Genisys	Terminator Genisys	0	2015	\N	126	Action,Adventure,Sci-Fi
+tt2302755	movie	Olympus Has Fallen	Olympus Has Fallen	0	2013	\N	119	Action,Thriller
+tt1650554	movie	Kick-Ass 2	Kick-Ass 2	0	2013	\N	103	Action,Adventure,Comedy
+tt1213663	movie	The World's End	The World's End	0	2013	\N	109	Action,Comedy,Sci-Fi
+tt0955308	movie	Robin Hood	Robin Hood	0	2010	\N	140	Action,Drama,History
+tt0190332	movie	Crouching Tiger, Hidden Dragon	Wo hu cang long	0	2000	\N	120	Action,Adventure,Fantasy
+tt2737304	movie	Bird Box	Bird Box	0	2018	\N	124	Drama,Horror,Sci-Fi
+tt4975722	movie	Moonlight	Moonlight	0	2016	\N	111	Drama
+tt0286716	movie	Hulk	Hulk	0	2003	\N	138	Action,Sci-Fi
+tt0320691	movie	Underworld	Underworld	0	2003	\N	121	Action,Fantasy,Thriller
+tt0258000	movie	Panic Room	Panic Room	0	2002	\N	112	Crime,Drama,Thriller
+tt0486655	movie	Stardust	Stardust	0	2007	\N	127	Adventure,Family,Fantasy
+tt0061722	movie	The Graduate	The Graduate	0	1967	\N	106	Comedy,Drama,Romance
+tt0486576	movie	Fantastic 4: Rise of the Silver Surfer	4: Rise of the Silver Surfer	0	2007	\N	92	Action,Adventure,Fantasy
+tt0187393	movie	The Patriot	The Patriot	0	2000	\N	165	Action,Drama,History
+tt2140479	movie	The Accountant	The Accountant	0	2016	\N	128	Action,Crime,Drama
+tt0438097	movie	Ice Age: The Meltdown	Ice Age: The Meltdown	0	2006	\N	91	Adventure,Animation,Comedy
+tt0290002	movie	Meet the Fockers	Meet the Fockers	0	2004	\N	115	Comedy,Romance
+tt0094721	movie	Beetlejuice	Beetlejuice	0	1988	\N	92	Comedy,Fantasy
+tt0212985	movie	Hannibal	Hannibal	0	2001	\N	131	Crime,Drama,Thriller
+tt0183649	movie	Phone Booth	Phone Booth	0	2002	\N	81	Crime,Thriller
+tt0075686	movie	Annie Hall	Annie Hall	0	1977	\N	93	Comedy,Romance
+tt0105323	movie	Scent of a Woman	Scent of a Woman	0	1992	\N	156	Drama
+tt3521164	movie	Moana	Moana	0	2016	\N	107	Adventure,Animation,Comedy
+tt0118884	movie	Contact	Contact	0	1997	\N	150	Drama,Mystery,Sci-Fi
+tt1790809	movie	Pirates of the Caribbean: Dead Men Tell No Tales	Pirates of the Caribbean: Dead Men Tell No Tales	0	2017	\N	129	Action,Adventure,Fantasy
+tt2024469	movie	Non-Stop	Non-Stop	0	2014	\N	106	Action,Mystery,Thriller
+tt0181875	movie	Almost Famous	Almost Famous	0	2000	\N	122	Adventure,Comedy,Drama
+tt1343727	movie	Dredd	Dredd	0	2012	\N	95	Action,Crime,Sci-Fi
+tt1401152	movie	Unknown	Unknown	0	2011	\N	113	Action,Mystery,Thriller
+tt0452623	movie	Gone Baby Gone	Gone Baby Gone	0	2007	\N	114	Crime,Drama,Mystery
+tt0429493	movie	The A-Team	The A-Team	0	2010	\N	117	Action,Adventure,Thriller
+tt0259711	movie	Vanilla Sky	Vanilla Sky	0	2001	\N	136	Fantasy,Mystery,Romance
+tt0322259	movie	2 Fast 2 Furious	2 Fast 2 Furious	0	2003	\N	107	Action,Crime,Thriller
+tt1302011	movie	Kung Fu Panda 2	Kung Fu Panda 2	0	2011	\N	90	Action,Adventure,Animation
+tt4881806	movie	Jurassic World: Fallen Kingdom	Jurassic World: Fallen Kingdom	0	2018	\N	128	Action,Adventure,Sci-Fi
+tt2316204	movie	Alien: Covenant	Alien: Covenant	0	2017	\N	122	Horror,Sci-Fi,Thriller
+tt0414387	movie	Pride & Prejudice	Pride & Prejudice	0	2005	\N	129	Drama,Romance
+tt0289765	movie	Red Dragon	Red Dragon	0	2002	\N	124	Crime,Drama,Thriller
+tt0120804	movie	Resident Evil	Resident Evil	0	2002	\N	100	Action,Horror,Sci-Fi
+tt0196229	movie	Zoolander	Zoolander	0	2001	\N	90	Comedy
+tt1077368	movie	Dark Shadows	Dark Shadows	0	2012	\N	113	Comedy,Fantasy,Horror
+tt0298203	movie	8 Mile	8 Mile	0	2002	\N	110	Drama,Music
+tt2527338	movie	Star Wars: Episode IX - The Rise of Skywalker	Star Wars: Episode IX - The Rise of Skywalker	0	2019	\N	142	Action,Adventure,Fantasy
+tt0338526	movie	Van Helsing	Van Helsing	0	2004	\N	131	Action,Adventure,Fantasy
+tt0783233	movie	Atonement	Atonement	0	2007	\N	123	Drama,Mystery,Romance
+tt0443272	movie	Lincoln	Lincoln	0	2012	\N	150	Biography,Drama,History
+tt2397535	movie	Predestination	Predestination	0	2014	\N	97	Action,Drama,Mystery
+tt1959490	movie	Noah	Noah	0	2014	\N	138	Action,Adventure,Drama
+tt3076658	movie	Creed	Creed	0	2015	\N	133	Drama,Sport
+tt0257044	movie	Road to Perdition	Road to Perdition	0	2002	\N	117	Crime,Drama,Thriller
+tt1028532	movie	Hachi: A Dog's Tale	Hachi: A Dog's Tale	0	2009	\N	93	Drama,Family
+tt0120762	movie	Mulan	Mulan	0	1998	\N	88	Adventure,Animation,Family
+tt0120611	movie	Blade	Blade	0	1998	\N	120	Action,Horror,Sci-Fi
+tt0368447	movie	The Village	The Village	0	2004	\N	108	Drama,Mystery,Thriller
+tt1706593	movie	Chronicle	Chronicle	0	2012	\N	84	Drama,Sci-Fi,Thriller
+tt1817273	movie	The Place Beyond the Pines	The Place Beyond the Pines	0	2012	\N	140	Crime,Drama,Thriller
+tt1601913	movie	The Grey	The Grey	0	2011	\N	117	Action,Adventure,Drama
+tt1385826	movie	The Adjustment Bureau	The Adjustment Bureau	0	2011	\N	106	Romance,Sci-Fi,Thriller
+tt1386703	movie	Total Recall	Total Recall	0	2012	\N	118	Action,Adventure,Sci-Fi
+tt0497465	movie	Vicky Cristina Barcelona	Vicky Cristina Barcelona	0	2008	\N	96	Comedy,Drama,Romance
+tt0803096	movie	Warcraft	Warcraft	0	2016	\N	123	Action,Adventure,Fantasy
+tt0151804	movie	Office Space	Office Space	0	1999	\N	89	Comedy
+tt0215750	movie	Enemy at the Gates	Enemy at the Gates	0	2001	\N	131	Drama,History,War
+tt0252866	movie	American Pie 2	American Pie 2	0	2001	\N	108	Comedy
+tt0107614	movie	Mrs. Doubtfire	Mrs. Doubtfire	0	1993	\N	125	Comedy,Drama,Family
+tt0121164	movie	Corpse Bride	Corpse Bride	0	2005	\N	77	Animation,Drama,Family
+tt0457939	movie	The Holiday	The Holiday	0	2006	\N	136	Comedy,Romance
+tt0221027	movie	Blow	Blow	0	2001	\N	124	Biography,Crime,Drama
+tt1931533	movie	Seven Psychopaths	Seven Psychopaths	0	2012	\N	110	Comedy,Crime
+tt0053291	movie	Some Like It Hot	Some Like It Hot	0	1959	\N	121	Comedy,Music,Romance
+tt1440129	movie	Battleship	Battleship	0	2012	\N	131	Action,Adventure,Sci-Fi
+tt0116695	movie	Jerry Maguire	Jerry Maguire	0	1996	\N	139	Comedy,Drama,Romance
+tt1386588	movie	The Other Guys	The Other Guys	0	2010	\N	107	Action,Comedy,Crime
+tt0113189	movie	GoldenEye	GoldenEye	0	1995	\N	130	Action,Adventure,Thriller
+tt3110958	movie	Now You See Me 2	Now You See Me 2	0	2016	\N	129	Action,Adventure,Comedy
+tt0070735	movie	The Sting	The Sting	0	1973	\N	129	Comedy,Crime,Drama
+tt0099348	movie	Dances with Wolves	Dances with Wolves	0	1990	\N	181	Adventure,Drama,Western
+tt0824747	movie	Changeling	Changeling	0	2008	\N	141	Biography,Crime,Drama
+tt0463985	movie	The Fast and the Furious: Tokyo Drift	The Fast and the Furious: Tokyo Drift	0	2006	\N	104	Action,Crime,Thriller
+tt0120812	movie	Rush Hour	Rush Hour	0	1998	\N	98	Action,Comedy,Crime
+tt0089218	movie	The Goonies	The Goonies	0	1985	\N	114	Adventure,Comedy,Family
+tt1033575	movie	The Descendants	The Descendants	0	2011	\N	115	Comedy,Drama
+tt0111503	movie	True Lies	True Lies	0	1994	\N	141	Action,Comedy,Thriller
+tt0479884	movie	Crank	Crank	0	2006	\N	88	Action,Crime,Thriller
+tt0112462	movie	Batman Forever	Batman Forever	0	1995	\N	121	Action,Adventure,Fantasy
+tt0118749	movie	Boogie Nights	Boogie Nights	0	1997	\N	155	Drama
+tt1092026	movie	Paul	Paul	0	2011	\N	104	Adventure,Comedy,Sci-Fi
+tt4034228	movie	Manchester by the Sea	Manchester by the Sea	0	2016	\N	137	Drama
+tt0093409	movie	Lethal Weapon	Lethal Weapon	0	1987	\N	109	Action,Crime,Thriller
+tt0363547	movie	Dawn of the Dead	Dawn of the Dead	0	2004	\N	101	Action,Horror
+tt0396171	movie	Perfume: The Story of a Murderer	Perfume: The Story of a Murderer	0	2006	\N	147	Crime,Drama
+tt0448134	movie	Sunshine	Sunshine	0	2007	\N	107	Sci-Fi,Thriller
+tt1032755	movie	RocknRolla	RocknRolla	0	2008	\N	114	Action,Crime,Thriller
+tt0118688	movie	Batman & Robin	Batman & Robin	0	1997	\N	125	Action,Sci-Fi
+tt3606756	movie	Incredibles 2	Incredibles 2	0	2018	\N	118	Action,Adventure,Animation
+tt0072890	movie	Dog Day Afternoon	Dog Day Afternoon	0	1975	\N	125	Biography,Crime,Drama
+tt2277860	movie	Finding Dory	Finding Dory	0	2016	\N	97	Adventure,Animation,Comedy
+tt0432348	movie	Saw II	Saw II	0	2005	\N	93	Horror,Mystery
+tt0097757	movie	The Little Mermaid	The Little Mermaid	0	1989	\N	83	Animation,Family,Fantasy
+tt1192628	movie	Rango	Rango	0	2011	\N	107	Adventure,Animation,Comedy
+tt0978764	movie	Sucker Punch	Sucker Punch	0	2011	\N	110	Action,Adventure,Fantasy
+tt0976051	movie	The Reader	The Reader	0	2008	\N	124	Drama,Romance
+tt0185937	movie	The Blair Witch Project	The Blair Witch Project	0	1999	\N	81	Horror,Mystery
+tt0358273	movie	Walk the Line	Walk the Line	0	2005	\N	136	Biography,Drama,Music
+tt1464540	movie	I Am Number Four	I Am Number Four	0	2011	\N	111	Action,Adventure,Sci-Fi
+tt1655442	movie	The Artist	The Artist	0	2011	\N	100	Comedy,Drama,Romance
+tt0175142	movie	Scary Movie	Scary Movie	0	2000	\N	88	Comedy
+tt0102057	movie	Hook	Hook	0	1991	\N	142	Adventure,Comedy,Family
+tt0104257	movie	A Few Good Men	A Few Good Men	0	1992	\N	138	Drama,Thriller
+tt2229499	movie	Don Jon	Don Jon	0	2013	\N	90	Comedy,Drama,Romance
+tt0093870	movie	RoboCop	RoboCop	0	1987	\N	102	Action,Crime,Sci-Fi
+tt0077631	movie	Grease	Grease	0	1978	\N	110	Musical,Romance
+tt0144117	movie	The Boondock Saints	The Boondock Saints	0	1999	\N	108	Action,Crime,Thriller
+tt1673434	movie	The Twilight Saga: Breaking Dawn - Part 2	The Twilight Saga: Breaking Dawn - Part 2	0	2012	\N	115	Adventure,Drama,Fantasy
+tt0414993	movie	The Fountain	The Fountain	0	2006	\N	97	Drama,Mystery,Romance
+tt0825232	movie	The Bucket List	The Bucket List	0	2007	\N	97	Comedy,Drama
+tt3079380	movie	Spy	Spy	0	2015	\N	120	Action,Comedy,Crime
+tt0478087	movie	21	21	0	2008	\N	123	Crime,Drama,History
+tt1823672	movie	Chappie	Chappie	0	2015	\N	120	Action,Crime,Drama
+tt0364725	movie	Dodgeball: A True Underdog Story	Dodgeball: A True Underdog Story	0	2004	\N	92	Comedy,Sport
+tt1212450	movie	Lawless	Lawless	0	2012	\N	116	Crime,Drama
+tt0985699	movie	Valkyrie	Valkyrie	0	2008	\N	121	Drama,History,Thriller
+tt0765443	movie	Eastern Promises	Eastern Promises	0	2007	\N	100	Action,Crime,Drama
+tt0120660	movie	Enemy of the State	Enemy of the State	0	1998	\N	132	Action,Thriller
+tt0082096	movie	Das Boot	Das Boot	0	1981	\N	149	Adventure,Drama,Thriller
+tt0195714	movie	Final Destination	Final Destination	0	2000	\N	98	Horror,Thriller
+tt1211956	movie	Escape Plan	Escape Plan	0	2013	\N	115	Action,Thriller
+tt0134847	movie	Pitch Black	Pitch Black	0	2000	\N	109	Horror,Sci-Fi
+tt0118583	movie	Alien Resurrection	Alien Resurrection	0	1997	\N	109	Action,Horror,Sci-Fi
+tt1855199	movie	End of Watch	End of Watch	0	2012	\N	109	Action,Crime,Drama
+tt0112442	movie	Bad Boys	Bad Boys	0	1995	\N	119	Action,Comedy,Crime
+tt4550098	movie	Nocturnal Animals	Nocturnal Animals	0	2016	\N	116	Drama,Thriller
+tt1325004	movie	The Twilight Saga: Eclipse	The Twilight Saga: Eclipse	0	2010	\N	124	Action,Drama,Fantasy
+tt0381681	movie	Before Sunset	Before Sunset	0	2004	\N	80	Drama,Romance
+tt1375670	movie	Grown Ups	Grown Ups	0	2010	\N	102	Comedy
+tt0315733	movie	21 Grams	21 Grams	0	2003	\N	124	Crime,Drama,Thriller
+tt2660888	movie	Star Trek Beyond	Star Trek Beyond	0	2016	\N	122	Action,Adventure,Sci-Fi
+tt0059578	movie	For a Few Dollars More	Per qualche dollaro in più	0	1965	\N	132	Western
+tt3263904	movie	Sully	Sully	0	2016	\N	96	Biography,Drama
+tt1731141	movie	Ender's Game	Ender's Game	0	2013	\N	114	Action,Adventure,Fantasy
+tt0077651	movie	Halloween	Halloween	0	1978	\N	91	Horror,Thriller
+tt0309698	movie	Identity	Identity	0	2003	\N	90	Mystery,Thriller
+tt0399146	movie	A History of Violence	A History of Violence	0	2005	\N	96	Drama,Thriller
+tt1001526	movie	Megamind	Megamind	0	2010	\N	95	Action,Animation,Comedy
+tt6146586	movie	John Wick: Chapter 3 - Parabellum	John Wick: Chapter 3 - Parabellum	0	2019	\N	131	Action,Crime,Thriller
+tt0172156	movie	Bad Boys II	Bad Boys II	0	2003	\N	147	Action,Comedy,Crime
+tt0430922	movie	Role Models	Role Models	0	2008	\N	99	Comedy
+tt0259324	movie	Ghost Rider	Ghost Rider	0	2007	\N	110	Action,Fantasy,Thriller
+tt0183505	movie	Me, Myself & Irene	Me, Myself & Irene	0	2000	\N	116	Comedy
+tt0163978	movie	The Beach	The Beach	0	2000	\N	119	Adventure,Drama,Romance
+tt0083944	movie	First Blood	First Blood	0	1982	\N	93	Action,Adventure
+tt1324999	movie	The Twilight Saga: Breaking Dawn - Part 1	The Twilight Saga: Breaking Dawn - Part 1	0	2011	\N	117	Action,Adventure,Drama
+tt0243155	movie	Bridget Jones's Diary	Bridget Jones's Diary	0	2001	\N	97	Comedy,Drama,Romance
+tt1210819	movie	The Lone Ranger	The Lone Ranger	0	2013	\N	150	Action,Adventure,Comedy
+tt0898367	movie	The Road	The Road	0	2009	\N	111	Drama
+tt1485796	movie	The Greatest Showman	The Greatest Showman	0	2017	\N	105	Biography,Drama,Musical
+tt0448011	movie	Knowing	Knowing	0	2009	\N	121	Action,Drama,Mystery
+tt1179904	movie	Paranormal Activity	Paranormal Activity	0	2007	\N	86	Horror,Mystery,Thriller
+tt1243957	movie	The Tourist	The Tourist	0	2010	\N	103	Action,Adventure,Crime
+tt0118655	movie	Austin Powers: International Man of Mystery	Austin Powers: International Man of Mystery	0	1997	\N	94	Adventure,Comedy
+tt1588173	movie	Warm Bodies	Warm Bodies	0	2013	\N	98	Comedy,Horror,Romance
+tt0245712	movie	Amores Perros	Amores perros	0	2000	\N	154	Drama,Thriller
+tt3450958	movie	War for the Planet of the Apes	War for the Planet of the Apes	0	2017	\N	140	Action,Adventure,Drama
+tt0107818	movie	Philadelphia	Philadelphia	0	1993	\N	125	Drama
+tt1080016	movie	Ice Age: Dawn of the Dinosaurs	Ice Age: Dawn of the Dinosaurs	0	2009	\N	94	Adventure,Animation,Comedy
+tt0057115	movie	The Great Escape	The Great Escape	0	1963	\N	172	Adventure,Drama,History
+tt0837562	movie	Hotel Transylvania	Hotel Transylvania	0	2012	\N	91	Animation,Comedy,Family
+tt0486822	movie	Disturbia	Disturbia	0	2007	\N	105	Crime,Drama,Mystery
+tt0420223	movie	Stranger Than Fiction	Stranger Than Fiction	0	2006	\N	113	Comedy,Drama,Fantasy
+tt0095765	movie	Cinema Paradiso	Nuovo Cinema Paradiso	0	1988	\N	155	Drama
+tt0083987	movie	Gandhi	Gandhi	0	1982	\N	191	Biography,Drama,History
+tt0462499	movie	Rambo	Rambo	0	2008	\N	92	Action
+tt0465234	movie	National Treasure: Book of Secrets	National Treasure: Book of Secrets	0	2007	\N	124	Action,Adventure,Mystery
+tt1124035	movie	The Ides of March	The Ides of March	0	2011	\N	101	Drama,Thriller
+tt1234721	movie	RoboCop	RoboCop	0	2014	\N	117	Action,Crime,Sci-Fi
+tt0095327	movie	Grave of the Fireflies	Hotaru no haka	0	1988	\N	89	Animation,Drama,War
+tt2209764	movie	Transcendence	Transcendence	0	2014	\N	119	Drama,Sci-Fi,Thriller
+tt0448115	movie	Shazam!	Shazam!	0	2019	\N	132	Action,Adventure,Comedy
+tt0145660	movie	Austin Powers: The Spy Who Shagged Me	Austin Powers: The Spy Who Shagged Me	0	1999	\N	95	Action,Adventure,Comedy
+tt0427944	movie	Thank You for Smoking	Thank You for Smoking	0	2005	\N	92	Comedy,Drama
+tt1564367	movie	Just Go with It	Just Go with It	0	2011	\N	117	Comedy,Romance
+tt4046784	movie	Maze Runner: The Scorch Trials	Maze Runner: The Scorch Trials	0	2015	\N	131	Action,Adventure,Sci-Fi
+tt0296572	movie	The Chronicles of Riddick	The Chronicles of Riddick	0	2004	\N	119	Action,Adventure,Sci-Fi
+tt3065204	movie	The Conjuring 2	The Conjuring 2	0	2016	\N	134	Horror,Mystery,Thriller
+tt1302006	movie	The Irishman	The Irishman	0	2019	\N	209	Biography,Crime,Drama
+tt0052618	movie	Ben-Hur	Ben-Hur	0	1959	\N	212	Adventure,Drama,History
+tt0302886	movie	Old School	Old School	0	2003	\N	88	Comedy
+tt0983193	movie	The Adventures of Tintin	The Adventures of Tintin	0	2011	\N	107	Action,Adventure,Animation
+tt0384537	movie	Silent Hill	Silent Hill	0	2006	\N	125	Horror
+tt0373469	movie	Kiss Kiss Bang Bang	Kiss Kiss Bang Bang	0	2005	\N	103	Action,Comedy,Crime
+tt0319343	movie	Elf	Elf	0	2003	\N	97	Comedy,Family,Fantasy
+tt0080678	movie	The Elephant Man	The Elephant Man	0	1980	\N	124	Biography,Drama
+tt0299658	movie	Chicago	Chicago	0	2002	\N	113	Comedy,Crime,Musical
+tt1798684	movie	Southpaw	Southpaw	0	2015	\N	124	Drama,Sport
+tt2908446	movie	Insurgent	Insurgent	0	2015	\N	119	Action,Adventure,Sci-Fi
+tt0110632	movie	Natural Born Killers	Natural Born Killers	0	1994	\N	118	Action,Crime,Drama
+tt0138097	movie	Shakespeare in Love	Shakespeare in Love	0	1998	\N	123	Comedy,Drama,History
+tt1922777	movie	Sinister	Sinister	0	2012	\N	110	Horror,Mystery,Thriller
+tt0109445	movie	Clerks	Clerks	0	1994	\N	92	Comedy
+tt1598778	movie	Contagion	Contagion	0	2011	\N	106	Action,Drama,Sci-Fi
+tt1832382	movie	A Separation	Jodaeiye Nader az Simin	0	2011	\N	123	Drama
+tt0335345	movie	The Passion of the Christ	The Passion of the Christ	0	2004	\N	127	Drama
+tt0045152	movie	Singin' in the Rain	Singin' in the Rain	0	1952	\N	103	Comedy,Musical,Romance
+tt0133152	movie	Planet of the Apes	Planet of the Apes	0	2001	\N	119	Action,Adventure,Sci-Fi
+tt1424381	movie	Predators	Predators	0	2010	\N	107	Action,Adventure,Sci-Fi
+tt0758774	movie	Body of Lies	Body of Lies	0	2008	\N	128	Action,Drama,Thriller
+tt0485947	movie	Mr. Nobody	Mr. Nobody	0	2009	\N	141	Drama,Fantasy,Romance
+tt0108550	movie	What's Eating Gilbert Grape	What's Eating Gilbert Grape	0	1993	\N	118	Drama
+tt0333766	movie	Garden State	Garden State	0	2004	\N	102	Comedy,Drama,Romance
+tt1411238	movie	No Strings Attached	No Strings Attached	0	2011	\N	108	Comedy,Romance
+tt0408306	movie	Munich	Munich	0	2005	\N	164	Drama,History,Thriller
+tt0120655	movie	Dogma	Dogma	0	1999	\N	130	Adventure,Comedy,Drama
+tt1132620	movie	The Girl with the Dragon Tattoo	Män som hatar kvinnor	0	2009	\N	152	Crime,Drama,Mystery
+tt0119643	movie	Meet Joe Black	Meet Joe Black	0	1998	\N	178	Drama,Fantasy,Romance
+tt1189340	movie	The Lincoln Lawyer	The Lincoln Lawyer	0	2011	\N	118	Crime,Drama,Thriller
+tt0795421	movie	Mamma Mia!	Mamma Mia!	0	2008	\N	108	Comedy,Musical,Romance
+tt0116996	movie	Mars Attacks!	Mars Attacks!	0	1996	\N	106	Comedy,Sci-Fi
+tt2293640	movie	Minions	Minions	0	2015	\N	91	Adventure,Animation,Comedy
+tt1220719	movie	Ip Man	Yip Man	0	2008	\N	106	Action,Biography,Drama
+tt0287978	movie	Daredevil	Daredevil	0	2003	\N	103	Action,Crime
+tt0117509	movie	Romeo + Juliet	Romeo + Juliet	0	1996	\N	120	Drama,Romance
+tt0027977	movie	Modern Times	Modern Times	0	1936	\N	87	Comedy,Drama,Family
+tt0409847	movie	Cowboys & Aliens	Cowboys & Aliens	0	2011	\N	119	Action,Adventure,Fantasy
+tt2361509	movie	The Intern	The Intern	0	2015	\N	121	Comedy,Drama
+tt2381941	movie	Focus	Focus	0	2015	\N	105	Comedy,Crime,Drama
+tt2126355	movie	San Andreas	San Andreas	0	2015	\N	114	Action,Adventure,Drama
+tt1321870	movie	Gangster Squad	Gangster Squad	0	2013	\N	113	Action,Crime,Drama
+tt4160708	movie	Don't Breathe	Don't Breathe	0	2016	\N	88	Crime,Horror,Thriller
+tt0123755	movie	Cube	Cube	0	1997	\N	90	Drama,Mystery,Sci-Fi
+tt1139797	movie	Let the Right One In	Låt den rätte komma in	0	2008	\N	114	Drama,Horror,Romance
+tt4925292	movie	Lady Bird	Lady Bird	0	2017	\N	94	Comedy,Drama
+tt2334879	movie	White House Down	White House Down	0	2013	\N	131	Action,Drama,Thriller
+tt0251127	movie	How to Lose a Guy in 10 Days	How to Lose a Guy in 10 Days	0	2003	\N	116	Comedy,Romance
+tt0080339	movie	Airplane!	Airplane!	0	1980	\N	88	Comedy
+tt1436562	movie	Rio	Rio	0	2011	\N	96	Adventure,Animation,Comedy
+tt4196776	movie	Jason Bourne	Jason Bourne	0	2016	\N	123	Action,Thriller
+tt1599348	movie	Safe House	Safe House	0	2012	\N	115	Action,Thriller
+tt0416320	movie	Match Point	Match Point	0	2005	\N	124	Drama,Romance,Thriller
+tt0246460	movie	Die Another Day	Die Another Day	0	2002	\N	133	Action,Adventure,Thriller
+tt0305224	movie	Anger Management	Anger Management	0	2003	\N	106	Comedy
+tt0479143	movie	Rocky Balboa	Rocky Balboa	0	2006	\N	102	Action,Drama,Sport
+tt1605630	movie	American Reunion	American Reunion	0	2012	\N	113	Comedy
+tt3464902	movie	The Lobster	The Lobster	0	2015	\N	119	Comedy,Drama,Romance
+tt1291150	movie	Teenage Mutant Ninja Turtles	Teenage Mutant Ninja Turtles	0	2014	\N	101	Action,Adventure,Comedy
+tt1142988	movie	The Ugly Truth	The Ugly Truth	0	2009	\N	96	Comedy,Romance
+tt0108399	movie	True Romance	True Romance	0	1993	\N	119	Crime,Drama,Romance
+tt0425061	movie	Get Smart	Get Smart	0	2008	\N	110	Action,Adventure,Comedy
+tt0376541	movie	Closer	Closer	0	2004	\N	104	Drama,Romance
+tt1623205	movie	Oz the Great and Powerful	Oz the Great and Powerful	0	2013	\N	130	Adventure,Family,Fantasy
+tt0431308	movie	P.S. I Love You	P.S. I Love You	0	2007	\N	126	Comedy,Drama,Romance
+tt1289401	movie	Ghostbusters	Ghostbusters	0	2016	\N	116	Action,Comedy,Fantasy
+tt0265208	movie	The Girl Next Door	The Girl Next Door	0	2004	\N	109	Comedy,Drama,Romance
+tt1046173	movie	G.I. Joe: The Rise of Cobra	G.I. Joe: The Rise of Cobra	0	2009	\N	118	Action,Adventure,Sci-Fi
+tt3235888	movie	It Follows	It Follows	0	2014	\N	100	Horror,Mystery,Thriller
+tt1077258	movie	Planet Terror	Planet Terror	0	2007	\N	105	Action,Comedy,Horror
+tt0311113	movie	Master and Commander: The Far Side of the World	Master and Commander: The Far Side of the World	0	2003	\N	138	Action,Adventure,Drama
+tt0308644	movie	Finding Neverland	Finding Neverland	0	2004	\N	106	Biography,Drama,Family
+tt0170016	movie	How the Grinch Stole Christmas	How the Grinch Stole Christmas	0	2000	\N	104	Comedy,Family,Fantasy
+tt0087800	movie	A Nightmare on Elm Street	A Nightmare on Elm Street	0	1984	\N	91	Horror
+tt0112281	movie	Ace Ventura: When Nature Calls	Ace Ventura: When Nature Calls	0	1995	\N	90	Adventure,Comedy,Crime
+tt0064115	movie	Butch Cassidy and the Sundance Kid	Butch Cassidy and the Sundance Kid	0	1969	\N	110	Biography,Crime,Drama
+tt0844471	movie	Cloudy with a Chance of Meatballs	Cloudy with a Chance of Meatballs	0	2009	\N	90	Adventure,Animation,Comedy
+tt1980209	movie	Pain & Gain	Pain & Gain	0	2013	\N	129	Action,Comedy,Crime
+tt1606378	movie	A Good Day to Die Hard	A Good Day to Die Hard	0	2013	\N	98	Action,Thriller
+tt0479952	movie	Madagascar: Escape 2 Africa	Madagascar: Escape 2 Africa	0	2008	\N	89	Adventure,Animation,Comedy
+tt4123430	movie	Fantastic Beasts: The Crimes of Grindelwald	Fantastic Beasts: The Crimes of Grindelwald	0	2018	\N	134	Adventure,Family,Fantasy
+tt0281358	movie	A Walk to Remember	A Walk to Remember	0	2002	\N	101	Drama,Romance
+tt3741834	movie	Lion	Lion	0	2016	\N	118	Biography,Drama
+tt0050212	movie	The Bridge on the River Kwai	The Bridge on the River Kwai	0	1957	\N	161	Adventure,Drama,War
+tt0187738	movie	Blade II	Blade II	0	2002	\N	117	Action,Horror,Sci-Fi
+tt5442430	movie	Life	Life	0	2017	\N	104	Horror,Sci-Fi,Thriller
+tt0059742	movie	The Sound of Music	The Sound of Music	0	1965	\N	172	Biography,Drama,Family
+tt0452608	movie	Death Race	Death Race	0	2008	\N	105	Action,Sci-Fi,Thriller
+tt0119282	movie	Hercules	Hercules	0	1997	\N	93	Adventure,Animation,Comedy
+tt3402236	movie	Murder on the Orient Express	Murder on the Orient Express	0	2017	\N	114	Crime,Drama,Mystery
+tt0266915	movie	Rush Hour 2	Rush Hour 2	0	2001	\N	90	Action,Comedy,Crime
+tt2184339	movie	The Purge	The Purge	0	2013	\N	85	Horror,Thriller
+tt4630562	movie	The Fate of the Furious	The Fate of the Furious	0	2017	\N	136	Action,Adventure,Thriller
+tt0120855	movie	Tarzan	Tarzan	0	1999	\N	88	Adventure,Animation,Family
+tt0146316	movie	Lara Croft: Tomb Raider	Lara Croft: Tomb Raider	0	2001	\N	100	Action,Adventure,Fantasy
+tt0106519	movie	Carlito's Way	Carlito's Way	0	1993	\N	144	Crime,Drama,Thriller
+tt0435625	movie	The Descent	The Descent	0	2005	\N	99	Adventure,Horror,Thriller
+tt7784604	movie	Hereditary	Hereditary	0	2018	\N	127	Drama,Horror,Mystery
+tt0142342	movie	Big Daddy	Big Daddy	0	1999	\N	93	Comedy,Drama
+tt0374900	movie	Napoleon Dynamite	Napoleon Dynamite	0	2004	\N	96	Comedy
+tt0949731	movie	The Happening	The Happening	0	2008	\N	91	Drama,Mystery,Sci-Fi
+tt0181865	movie	Traffic	Traffic	0	2000	\N	147	Crime,Drama,Thriller
+tt0032553	movie	The Great Dictator	The Great Dictator	0	1940	\N	125	Comedy,Drama,War
+tt0210945	movie	Remember the Titans	Remember the Titans	0	2000	\N	113	Biography,Drama,Sport
+tt1155056	movie	I Love You, Man	I Love You, Man	0	2009	\N	105	Comedy,Romance
+tt0339291	movie	Lemony Snicket's A Series of Unfortunate Events	A Series of Unfortunate Events	0	2004	\N	108	Adventure,Comedy,Family
+tt0295178	movie	Austin Powers in Goldmember	Austin Powers in Goldmember	0	2002	\N	94	Action,Adventure,Comedy
+tt1428538	movie	Hansel & Gretel: Witch Hunters	Hansel & Gretel: Witch Hunters	0	2013	\N	88	Action,Fantasy,Horror
+tt0481369	movie	The Number 23	The Number 23	0	2007	\N	98	Crime,Mystery,Thriller
+tt2674426	movie	Me Before You	Me Before You	0	2016	\N	106	Drama,Romance
+tt0328828	movie	American Wedding	American Wedding	0	2003	\N	96	Comedy
+tt0043014	movie	Sunset Blvd.	Sunset Blvd.	0	1950	\N	110	Drama,Film-Noir
+tt2719848	movie	Everest	Everest	0	2015	\N	121	Action,Adventure,Biography
+tt1272878	movie	2 Guns	2 Guns	0	2013	\N	109	Action,Comedy,Thriller
+tt0356150	movie	EuroTrip	EuroTrip	0	2004	\N	92	Comedy
+tt0092890	movie	Dirty Dancing	Dirty Dancing	0	1987	\N	100	Drama,Music,Romance
+tt0158983	movie	South Park: Bigger, Longer & Uncut	South Park: Bigger, Longer & Uncut	0	1999	\N	81	Animation,Comedy,Fantasy
+tt0094737	movie	Big	Big	0	1988	\N	104	Comedy,Drama,Fantasy
+tt2582782	movie	Hell or High Water	Hell or High Water	0	2016	\N	102	Action,Crime,Drama
+tt0087363	movie	Gremlins	Gremlins	0	1984	\N	106	Comedy,Fantasy,Horror
+tt0116483	movie	Happy Gilmore	Happy Gilmore	0	1996	\N	92	Comedy,Sport
+tt1284575	movie	Bad Teacher	Bad Teacher	0	2011	\N	92	Comedy,Romance
+tt1815862	movie	After Earth	After Earth	0	2013	\N	100	Action,Adventure,Drama
+tt0099653	movie	Ghost	Ghost	0	1990	\N	127	Drama,Fantasy,Romance
+tt0985694	movie	Machete	Machete	0	2010	\N	105	Action,Crime,Thriller
+tt1219827	movie	Ghost in the Shell	Ghost in the Shell	0	2017	\N	107	Action,Drama,Sci-Fi
+tt1649419	movie	The Impossible	Lo imposible	0	2012	\N	114	Drama,History,Thriller
+tt0499448	movie	The Chronicles of Narnia: Prince Caspian	The Chronicles of Narnia: Prince Caspian	0	2008	\N	150	Action,Adventure,Family
+tt0058461	movie	A Fistful of Dollars	Per un pugno di dollari	0	1964	\N	99	Drama,Western
+tt0207201	movie	What Women Want	What Women Want	0	2000	\N	127	Comedy,Fantasy,Romance
+tt0959337	movie	Revolutionary Road	Revolutionary Road	0	2008	\N	119	Drama,Romance
+tt0388482	movie	Transporter 2	Transporter 2	0	2005	\N	87	Action,Thriller
+tt2334873	movie	Blue Jasmine	Blue Jasmine	0	2013	\N	98	Drama
+tt0327597	movie	Coraline	Coraline	0	2009	\N	100	Animation,Drama,Family
+tt0437086	movie	Alita: Battle Angel	Alita: Battle Angel	0	2019	\N	122	Action,Adventure,Sci-Fi
+tt0401855	movie	Underworld: Evolution	Underworld: Evolution	0	2006	\N	106	Action,Fantasy,Sci-Fi
+tt0432283	movie	Fantastic Mr. Fox	Fantastic Mr. Fox	0	2009	\N	87	Adventure,Animation,Comedy
+tt0098635	movie	When Harry Met Sally...	When Harry Met Sally...	0	1989	\N	95	Comedy,Drama,Romance
+tt2234155	movie	The Internship	The Internship	0	2013	\N	119	Comedy
+tt0128853	movie	You've Got Mail	You've Got Mail	0	1998	\N	119	Comedy,Drama,Romance
+tt0993842	movie	Hanna	Hanna	0	2011	\N	111	Action,Drama,Thriller
+tt5362988	movie	Wind River	Wind River	0	2017	\N	107	Crime,Drama,Mystery
+tt0960144	movie	You Don't Mess with the Zohan	You Don't Mess with the Zohan	0	2008	\N	113	Comedy
+tt0130827	movie	Run Lola Run	Lola rennt	0	1998	\N	81	Crime,Drama,Thriller
+tt0481499	movie	The Croods	The Croods	0	2013	\N	98	Action,Adventure,Animation
+tt1636826	movie	Project X	Project X	0	2012	\N	88	Comedy
+tt0079501	movie	Mad Max	Mad Max	0	1979	\N	88	Action,Adventure,Sci-Fi
+tt2321549	movie	The Babadook	The Babadook	0	2014	\N	94	Drama,Horror
+tt1667889	movie	Ice Age: Continental Drift	Ice Age: Continental Drift	0	2012	\N	88	Adventure,Animation,Comedy
+tt2883512	movie	Chef	Chef	0	2014	\N	114	Adventure,Comedy,Drama
+tt1148204	movie	Orphan	Orphan	0	2009	\N	123	Horror,Mystery,Thriller
+tt1127180	movie	Drag Me to Hell	Drag Me to Hell	0	2009	\N	99	Horror,Thriller
+tt1899353	movie	The Raid: Redemption	Serbuan maut	0	2011	\N	101	Action,Thriller
+tt0103874	movie	Bram Stoker's Dracula	Dracula	0	1992	\N	128	Horror
+tt4846340	movie	Hidden Figures	Hidden Figures	0	2016	\N	127	Biography,Drama,History
+tt0118929	movie	Dark City	Dark City	0	1998	\N	100	Mystery,Sci-Fi,Thriller
+tt0371724	movie	The Hitchhiker's Guide to the Galaxy	The Hitchhiker's Guide to the Galaxy	0	2005	\N	109	Adventure,Comedy,Sci-Fi
+tt0079817	movie	Rocky II	Rocky II	0	1979	\N	119	Drama,Sport
+tt2704998	movie	Game Night	Game Night	0	2018	\N	100	Action,Comedy,Crime
+tt0143145	movie	The World Is Not Enough	The World Is Not Enough	0	1999	\N	128	Action,Adventure,Thriller
+tt0397892	movie	Bolt	Bolt	0	2008	\N	96	Adventure,Animation,Comedy
+tt0088846	movie	Brazil	Brazil	0	1985	\N	132	Drama,Sci-Fi
+tt0117665	movie	Sleepers	Sleepers	0	1996	\N	147	Crime,Drama,Thriller
+tt1305806	movie	The Secret in Their Eyes	El secreto de sus ojos	0	2009	\N	129	Drama,Mystery,Romance
+tt0318627	movie	Resident Evil: Apocalypse	Resident Evil: Apocalypse	0	2004	\N	94	Action,Horror,Sci-Fi
+tt6823368	movie	Glass	Glass	0	2019	\N	129	Drama,Sci-Fi,Thriller
+tt1340800	movie	Tinker Tailor Soldier Spy	Tinker Tailor Soldier Spy	0	2011	\N	122	Drama,Mystery,Thriller
+tt0063522	movie	Rosemary's Baby	Rosemary's Baby	0	1968	\N	137	Drama,Horror
+tt1111422	movie	The Taking of Pelham 123	The Taking of Pelham 123	0	2009	\N	106	Action,Crime,Thriller
+tt0370263	movie	Alien vs. Predator	AVP: Alien vs. Predator	0	2004	\N	101	Action,Adventure,Horror
+tt1972591	movie	King Arthur: Legend of the Sword	King Arthur: Legend of the Sword	0	2017	\N	126	Action,Adventure,Drama
+tt0914798	movie	The Boy in the Striped Pajamas	The Boy in the Striped Pyjamas	0	2008	\N	94	Drama,War
+tt6857112	movie	Us	Us	0	2019	\N	116	Horror,Mystery,Thriller
+tt1606389	movie	The Vow	The Vow	0	2012	\N	104	Drama,Romance
+tt0477080	movie	Unstoppable	Unstoppable	0	2010	\N	98	Action,Thriller
+tt0432021	movie	Resident Evil: Extinction	Resident Evil: Extinction	0	2007	\N	94	Action,Horror,Sci-Fi
+tt0089927	movie	Rocky IV	Rocky IV	0	1985	\N	91	Drama,Sport
+tt0083907	movie	The Evil Dead	The Evil Dead	0	1981	\N	85	Horror
+tt0212346	movie	Miss Congeniality	Miss Congeniality	0	2000	\N	109	Action,Comedy,Crime
+tt7349662	movie	BlacKkKlansman	BlacKkKlansman	0	2018	\N	135	Biography,Crime,Drama
+tt1646987	movie	Wrath of the Titans	Wrath of the Titans	0	2012	\N	99	Action,Adventure,Fantasy
+tt1365519	movie	Tomb Raider	Tomb Raider	0	2018	\N	119	Action,Adventure,Fantasy
+tt0120685	movie	Godzilla	Godzilla	0	1998	\N	139	Action,Sci-Fi,Thriller
+tt0366551	movie	Harold & Kumar Go to White Castle	Harold & Kumar Go to White Castle	0	2004	\N	88	Adventure,Comedy
+tt0488120	movie	Fracture	Fracture	0	2007	\N	113	Crime,Drama,Thriller
+tt1723811	movie	Shame	Shame	0	2011	\N	101	Drama
+tt6139732	movie	Aladdin	Aladdin	0	2019	\N	128	Adventure,Family,Fantasy
+tt1120985	movie	Blue Valentine	Blue Valentine	0	2010	\N	112	Drama,Romance
+tt2404435	movie	The Magnificent Seven	The Magnificent Seven	0	2016	\N	132	Action,Adventure,Western
+tt0363988	movie	Secret Window	Secret Window	0	2004	\N	96	Drama,Mystery,Thriller
+tt5726616	movie	Call Me by Your Name	Call Me by Your Name	0	2017	\N	132	Drama,Romance
+tt0892791	movie	Shrek Forever After	Shrek Forever After	0	2010	\N	93	Adventure,Animation,Comedy
+tt0097428	movie	Ghostbusters II	Ghostbusters II	0	1989	\N	108	Action,Comedy,Fantasy
+tt2094766	movie	Assassin's Creed	Assassin's Creed	0	2016	\N	115	Action,Adventure,Sci-Fi
+tt0462322	movie	Grindhouse	Grindhouse	0	2007	\N	191	Action,Horror,Thriller
+tt1013743	movie	Knight and Day	Knight and Day	0	2010	\N	109	Action,Adventure,Comedy

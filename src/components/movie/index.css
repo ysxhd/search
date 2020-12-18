@@ -1,0 +1,46 @@
+
+.movie__figure {
+  position: relative;
+}
+
+.movie__poster {
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+  margin-bottom: 0.5em;
+  position: relative;
+}
+
+.movie__poster:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transition: all 1s ;
+}
+
+
+
+
+.movie__vote {
+  align-items: center;
+  background-color: #f68d01;
+  color: white;
+  border-radius: 50%;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.25);
+  display: flex;
+  height: 2.25em;
+  justify-content: center;
+  padding: 0.5em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 75%;
+  transform: translateX(50%);
+  width: 2.25em;
+}
+
+
+.movie__figure .movie__title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin: 0;
+  color: #24262C;
+  text-align: center;
+}
