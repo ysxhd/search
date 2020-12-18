@@ -15,10 +15,12 @@ const Movie = (props) => (
 
         <figcaption>
           <span className="movie__vote">{props.rating}</span>
+      
         </figcaption>
   
 
-      <h2 className="movie__title">{props.title}</h2>
+      <h2 className="movie__title">{props.title} </h2>
+      <p className="movie__runtime">{props.runtime} mins</p>
     </figure>
   </div>
 );

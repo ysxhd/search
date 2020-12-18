@@ -44,3 +44,13 @@
   color: #24262C;
   text-align: center;
 }
+
+
+
+.movie__runtime {
+  font-size: 0.8rem;
+  font-weight: 300;
+  margin: 0;
+  color: #24262C;
+  text-align: center;
+}
