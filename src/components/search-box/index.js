@@ -2,9 +2,7 @@ import React, { useState } from "react";
 import PropTypes from "prop-types";
 import "./index.css";
 
-import {
-  SearchOutlined
-} from '@ant-design/icons';
+import { SearchOutlined } from "@ant-design/icons";
 
 const SearchBox = ({ onSearch }) => {
   const [search, setSearch] = useState("");
@@ -21,18 +19,15 @@ const SearchBox = ({ onSearch }) => {
 
   return (
     <div className="search">
-      <div>
-        <input
-          type="search"
-          value={search}
-          onChange={(e) => handleSearch(e)}
-          onKeyUp={(e) => handleEnterKey(e)}
-          placeholder="Search"
-        />
-        <div className='icon'>
-          <SearchOutlined />
-        </div>
-      </div>
+      <input
+        type="search"
+        value={search}
+        onChange={(e) => handleSearch(e)}
+        onKeyUp={(e) => handleEnterKey(e)}
+        placeholder="Search"
+      />
+
+      <SearchOutlined className="icon" />
     </div>
   );
 };

@@ -11,8 +11,8 @@ import {
   FileOutlined,
   TeamOutlined,
   UserOutlined,
-  DownOutlined
-} from '@ant-design/icons';
+  DownOutlined,
+} from "@ant-design/icons";
 
 import "./App.css";
 import { render } from "@testing-library/react";
@@ -106,114 +106,138 @@ const App = function () {
       <Menu.Item>test</Menu.Item>
     </Menu>
   );
- 
+
   return (
+    <div className="window-margin">
+      <div className="window">
+        <aside className="sidebar">
+          <div className="top-bar">IMDB</div>
 
-      <div className="window-margin">
-	          <div className="window">
+          <div className="search-box">
+            <Search onSearch={(value) => handleSearch(value)} />
+          </div>
+          <menu className="menu">
+            <p className="menu-name">Movie trailers</p>
+            <ul className="no-bullets">
+              <li className="active">
+                <a href="#">Action / Adventure</a>
+                <ul>
+                  <li>
+                    <a href="#">Latest</a>
+                  </li>
+                  <li className="active">
+                    <a href="#">Popular</a>
+                  </li>
+                  <li>
+                    <a href="#">Coming soon</a>
+                  </li>
+                  <li>
+                    <a href="#">Staff picks</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#">Drama </a>
+              </li>
+              <li>
+                <a href="#">Comedy</a>
+              </li>
+              <li>
+                <a href="#">Documentaries</a>
+              </li>
+              <li>
+                <a href="#">Drama</a>
+              </li>
+              <li>
+                <a href="#">Horror</a>
+              </li>
+              <li>
+                <a href="#">Sci-Fi / Fantasy</a>
+              </li>
+              <li>
+                <a href="#">List A-Z</a>
+              </li>
+            </ul>
 
-            <aside className="sidebar">
-			   <div className="top-bar">
-				<p className="logo">IMDB</p>
-			</div>
+            <div className="separator"></div>
 
-			<div className="search-box">
-      <Search onSearch={(value) => handleSearch(value)} />
-			</div>
-			<menu className="menu">
-				<p className="menu-name">Movie trailers</p>
-				<ul className="no-bullets">
-					<li className="active">
-						<a href="#">Action / Adventure</a>
-						<ul>
-							<li><a href="#">Latest</a></li>
-							<li className="active"><a href="#">Popular</a></li>
-							<li><a href="#">Coming soon</a></li>
-							<li><a href="#">Staff picks</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Drama </a></li>
-					<li><a href="#">Comedy</a></li>
-					<li><a href="#">Documentaries</a></li>
-					<li><a href="#">Drama</a></li>
-					<li><a href="#">Horror</a></li>
-					<li><a href="#">Sci-Fi  / Fantasy</a></li>
-					<li><a href="#">List A-Z</a></li>
-				</ul>
+            <ul className="no-bullets">
+              <li>
+                <a href="#">Latest news</a>
+              </li>
+              <li>
+                <a href="#">Critic reviews</a>
+              </li>
+              <li>
+                <a href="#">Box office</a>
+              </li>
+              <li>
+                <a href="#">Top 250</a>
+              </li>
+            </ul>
 
-				<div className="separator"></div>
+            <div className="separator"></div>
+          </menu>
+        </aside>
 
-				<ul className="no-bullets">
-					<li><a href="#">Latest news</a></li>
-					<li><a href="#">Critic reviews</a></li>
-					<li><a href="#">Box office</a></li>
-					<li><a href="#">Top 250</a></li>
-				</ul>
+        <div className="main" role="main">
+          <div className="top-bar">
+            <ul class="top-menu no-bullets">
+              <li>
+                <a href="#">Headlines</a>
+              </li>
+              <li>
+                <a href="#">Articles</a>
+              </li>
+              <li class="active">
+                <a href="#">Movies & Films</a>
+              </li>
+              <li>
+                <a href="#">Television</a>
+              </li>
+              <li>
+                <a href="#">Music</a>
+              </li>
+              <li>
+                <a href="#">Celebrities</a>
+              </li>
+            </ul>
+          </div>
 
-				<div className="separator"></div>
-			</menu>
-		</aside>
+          <Content>
+            <div className="content">
+              <div style={{ display: `${type === 1 ? "block" : "none"}` }}>
+                <Movies
+                  movies={movies}
+                  onClickItem={(index) => handleClickMovie(index)}
+                />
+              </div>
 
+              <div style={{ display: `${type === 2 ? "block" : "none"}` }}>
+                {movies && movies.length && clickIndex.current !== -1 && (
+                  <MovieDetail
+                    movie={movies[clickIndex.current]}
+                    onBack={() => handleMovieDetailBack()}
+                    onClickActor={(value) => handleClickActor(value)}
+                  />
+                )}
+              </div>
 
-		<div className="main" role="main">
-
-			<div className="top-bar">
-
-				<ul class="top-menu no-bullets" >
-					<li class="menu-icon trigger-sidebar-toggle">
-						{/* <div class="line"></div>
-						<div class="line"></div>
-						<div class="line"></div> */}
-					</li>
-					<li><a href="#">Headlines</a></li>
-					<li><a href="#">Articles</a></li>
-					<li class="active"><a href="#">Movies & Films</a></li>
-					<li><a href="#">Television</a></li>
-					<li><a href="#">Music</a></li>
-          <li><a href="#">Celebrities</a></li>
-				</ul>
-
-			</div>
-
-
-      <Content>
-
-<div className="content">
-  <div style={{ display: `${type === 1 ? "block" : "none"}` }}>
-    <Movies
-      movies={movies}
-      onClickItem={(index) => handleClickMovie(index)}
-    />
-  </div>
-
-  <div style={{ display: `${type === 2 ? "block" : "none"}` }}>
-    {movies && movies.length && clickIndex.current !== -1 && (
-      <MovieDetail
-        movie={movies[clickIndex.current]}
-        onBack={() => handleMovieDetailBack()}
-        onClickActor={(value) => handleClickActor(value)}
-      />
-    )}
-  </div>
-
-  {total !== -1 && (
-    <div className="pagination-wrap">
-      <Pagination
-        current={offset + 1}
-        total={total}
-        showSizeChanger={false}
-        onChange={(current) => handlePageChange(current)}
-      />
+              {total !== -1 && (
+                <div className="pagination-wrap">
+                  <Pagination
+                    current={offset + 1}
+                    total={total}
+                    showSizeChanger={false}
+                    onChange={(current) => handlePageChange(current)}
+                  />
+                </div>
+              )}
+            </div>
+          </Content>
+        </div>
+      </div>
     </div>
-  )}
-</div>
-</Content>
-
-     </div>
-      </div>
-      </div>
-   
-
   );
 };
 
